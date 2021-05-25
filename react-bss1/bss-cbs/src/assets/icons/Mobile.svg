@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="28" viewBox="0 0 18 28">
+    <defs>
+        <style>
+            .cls-1{fill:#999}
+        </style>
+    </defs>
+    <path id="Mobile" d="M646.809 120.808h-8a5 5 0 0 0-5 5v18a5 5 0 0 0 5 5h8a5 5 0 0 0 5-5v-18a5 5 0 0 0-5-5zm-4.038 24.539a1.731 1.731 0 1 1 1.731-1.73 1.731 1.731 0 0 1-1.731 1.73z" class="cls-1" transform="translate(-633.809 -120.808)"/>
+</svg>

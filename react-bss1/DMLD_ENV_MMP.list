@@ -1,0 +1,12 @@
+MIDDLEWARE_GATEWAY_URI=http://dmld-ui.cluster1.devtestlab2.tecnotree.com
+DIGITAL_ADAPTOR_URI=https://bssmobile.tecnotree.com/dclm-service
+API_GATEWAY_URI=http://dclm.cluster1.devtestlab2.tecnotree.com
+MOBILE_NUMBER_LENGTH=10
+CUSTOMER_UAT_ACCEPTANCE=Customer UAT Acceptance
+OPCO=mtng
+SEARCH_TITLE=MTN
+DISPLAY_CHAT_BOT=false
+SUBSCRIPTION_HISTORY_DAYS=180
+DEFAULT_THEME_COLOR=azureBlue
+DEFAULT_THEME_TEXT_COLOR=black
+DCLM_BASE_URI=https://dclm-mmp.cluster1.devtestlab2.tecnotree.com

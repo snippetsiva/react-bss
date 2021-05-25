@@ -1,0 +1,4 @@
+[template]
+src = "config.js.tmpl"
+dest = "/usr/share/nginx/html/bss-cbs-app-upgrade-ui/config.js"
+mode = "0555"

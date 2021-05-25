@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="33.557" height="36.047" viewBox="0 0 33.557 36.047">
+    <defs>
+        <style>
+            .cls-1,.cls-2{fill:none;stroke:#7766de;stroke-linejoin:round}.cls-2{fill:#7766de}
+        </style>
+    </defs>
+    <g id="notes-nav" transform="translate(-3770.315 -812.508)">
+        <path id="Path_37661" d="M3779.783 848.055h-8.968v-35.047h26.007v13.166" class="cls-1" data-name="Path 37661"/>
+        <path id="Line_2083" d="M0 0h15.066" class="cls-1" data-name="Line 2083" transform="translate(3776.196 821.869)"/>
+        <path id="Line_2084" d="M0 0h15.066" class="cls-1" data-name="Line 2084" transform="translate(3776.196 827.034)"/>
+        <path id="Line_2085" d="M0 0h9.865" class="cls-1" data-name="Line 2085" transform="translate(3776.196 832.2)"/>
+        <path id="Path_37662" d="M3797.618 839.36l-7.869 7.533-.807 6.076 6.008-1.1 7.376-7.936z" class="cls-1" data-name="Path 37662" transform="translate(-3.689 -5.362)"/>
+        <path id="Rectangle_9830" d="M2 0h2.512a2 2 0 0 1 2 2v4.508H0V2a2 2 0 0 1 2-2z" class="cls-2" data-name="Rectangle 9830" transform="rotate(44.03 873.631 5112.224)"/>
+    </g>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="23.867" height="23.867" viewBox="0 0 23.867 23.867">
+    <defs>
+        <style>
+            .cls-landlinefill{fill:#999}
+        </style>
+    </defs>
+    <g data-name="LandLine" class="cls-landlinefill">
+        <path d="M21.155 0H10.849a2.712 2.712 0 0 0-2.712 2.712V19.8a1.9 1.9 0 1 1-3.8 0v-1.41a2.712 2.712 0 0 0 2.17-2.658V2.712A2.712 2.712 0 0 0 3.8 0H2.712A2.712 2.712 0 0 0 0 2.712v13.019a2.712 2.712 0 0 0 2.17 2.658V19.8a4.069 4.069 0 0 0 8.137 0v-1.41a2.712 2.712 0 0 0 .542.054h10.306a2.712 2.712 0 0 0 2.712-2.712V2.712A2.712 2.712 0 0 0 21.155 0zM3.8 16.273H2.712a.542.542 0 0 1-.542-.542V2.712a.542.542 0 0 1 .542-.542H3.8a.542.542 0 0 1 .542.542v13.019a.542.542 0 0 1-.542.542zm17.9-.542a.542.542 0 0 1-.542.542H10.849a.542.542 0 0 1-.542-.542V2.712a.542.542 0 0 1 .542-.542h10.306a.542.542 0 0 1 .542.542z" data-name="Path 36908"/>
+        <path d="M11.391 3.255h9.221v2.17h-9.221z" data-name="Rectangle 7705"/>
+        <path d="M11.391 6.509h2.17v2.17h-2.17z" data-name="Rectangle 7706"/>
+        <path d="M18.443 6.509h2.17v2.17h-2.17z" data-name="Rectangle 7707"/>
+        <path d="M14.917 6.509h2.17v2.17h-2.17z" data-name="Rectangle 7708"/>
+        <path d="M11.391 9.764h2.17v2.17h-2.17z" data-name="Rectangle 7709"/>
+        <path d="M18.443 9.764h2.17v2.17h-2.17z" data-name="Rectangle 7710"/>
+        <path d="M14.917 9.764h2.17v2.17h-2.17z" data-name="Rectangle 7711"/>
+        <path d="M11.391 13.018h2.17v2.17h-2.17z" data-name="Rectangle 7712"/>
+        <path d="M18.443 13.018h2.17v2.17h-2.17z" data-name="Rectangle 7713"/>
+        <path d="M14.917 13.018h2.17v2.17h-2.17z" data-name="Rectangle 7714"/>
+    </g>
+</svg>

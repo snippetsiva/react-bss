@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36.501" height="34.519" viewBox="0 0 36.501 34.519">
+    <defs>
+        <style>
+            .cls-1,.cls-2{fill:#cecece;stroke:#57606f;stroke-linejoin:round}.cls-2{fill:none}
+        </style>
+    </defs>
+    <g id="Service-details" transform="translate(-3720.73 -721.208)">
+        <circle id="Ellipse_249" cx="3.273" cy="3.273" r="3.273" class="cls-1" data-name="Ellipse 249" transform="translate(3742.221 748.681)"/>
+        <circle id="Ellipse_250" cx="3.273" cy="3.273" r="3.273" class="cls-1" data-name="Ellipse 250" transform="translate(3730.809 748.681)"/>
+        <path id="Path_37664" d="M3738.755 728.468l-1.585-3.237 5.1-2.495 2.806 5.731" class="cls-1" data-name="Path 37664" transform="translate(-2.989 -.187)"/>
+        <path id="Path_37665" d="M3748.6 728.707l-1.058-2.162 5.095-2.495 2.28 4.656" class="cls-1" data-name="Path 37665" transform="translate(-4.875 -.426)"/>
+        <path id="Path_37663" d="M3754.67 742.287h-22.8l-3.273-12.546h29.564z" class="cls-2" data-name="Path 37663" transform="translate(-1.43 -1.461)"/>
+        <path id="Path_37666" d="M3720.73 721.708h1.6a4.07 4.07 0 0 1 3.94 3.048l4.173 16.071" class="cls-2" data-name="Path 37666"/>
+        <path id="Path_37667" d="M3754.921 750.5h-21.4a2.5 2.5 0 0 1-2.5-2.5v-.436a2.5 2.5 0 0 1 2.5-2.5h21.4" class="cls-2" data-name="Path 37667" transform="translate(-1.873 -4.248)"/>
+    </g>
+</svg>

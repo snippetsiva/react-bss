@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="15" height="12" viewBox="0 0 15 12">
+    <g id="Wallet" transform="translate(-2 -4)">
+        <path id="Path_26953" d="M16.25 4H2.75a.709.709 0 0 0-.75.75v10.5a.709.709 0 0 0 .75.75h13.5a.709.709 0 0 0 .75-.75V11.5h-5.25a1.5 1.5 0 0 1-1.5-1.5 1.5 1.5 0 0 1 1.5-1.5H17V4.75a.709.709 0 0 0-.75-.75z"  data-name="Path 26953"/>
+        <ellipse id="Ellipse_626" cx=".75" cy=".75"  data-name="Ellipse 626" rx=".75" ry=".75" transform="translate(11 9.25)"/>
+    </g>
+</svg>

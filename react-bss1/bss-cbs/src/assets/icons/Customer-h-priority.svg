@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="33.67" height="41.581" viewBox="0 0 33.67 41.581">
+    <defs>
+        <style>
+            .a{fill:#f3f4f9;stroke:#8e8e93;stroke-miterlimit:10}.c{fill:#ff4757}
+        </style>
+    </defs>
+    <g transform="translate(-849.677 -1154.5)">
+        <g transform="translate(850.177 1154.5)">
+            <path class="a" d="M2897.032,3343.447h-4.894a5.885,5.885,0,0,0-5.884,5.884v20.9a5.886,5.886,0,0,0,5.884,5.884h20.9a5.885,5.885,0,0,0,5.884-5.884v-20.9a5.885,5.885,0,0,0-5.884-5.884h-16.008Z" transform="translate(-2886.255 -3335.034)"/>
+            <rect width="11.446" height="14.34" rx="5.723" transform="translate(10.648)" style="fill:#fff"/>
+            <g class="a" transform="translate(14.047 2.191)">
+                <rect width="4.873" height="8.863" rx="1.372" style="stroke:none"/>
+                <rect x="-0.5" y="-0.5" width="5.873" height="9.863" rx="1.872" style="fill:none"/>
+            </g>
+        </g>
+        <path class="c" d="M0,0H3.286L2.739,6.857H.548Z" transform="translate(864.224 1175.339)"/>
+        <ellipse class="c" cx="2" cy="1.5" rx="2" ry="1.5" transform="translate(864 1184.58)"/>
+    </g>
+</svg>

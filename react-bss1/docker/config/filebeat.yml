@@ -1,0 +1,12 @@
+# dclm-web-ui-server
+filebeat.prospectors:
+#filebeat.inputs:
+    - type: log
+      enabled: true
+      paths:
+        - ${HARVEST_LOG_PATH}/*.log*
+      fields:
+        module: ${LOG_MODULE}
+      fields_under_root: true
+output.logstash:
+  hosts: ["${LOGSTASH_HOSTS}"]

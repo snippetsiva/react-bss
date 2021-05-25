@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10.356" height="11.779" viewBox="0 0 10.356 11.779">
+    <defs>
+        <style>
+            .view{fill:none;stroke:#fff;stroke-linecap:round;stroke-width:1.5px}
+        </style>
+    </defs>
+    <g transform="translate(201.493 586.186) rotate(180)">
+        <path class="view" d="M-1366.8-315.415l4.117-4.117,4.117,4.117" transform="translate(1559 895)"/>
+        <path class="view" d="M-1362.685-318.582v9.018" transform="translate(1559 895)"/>
+    </g>
+</svg>

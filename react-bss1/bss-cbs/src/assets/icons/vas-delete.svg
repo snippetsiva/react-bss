@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16.4" height="18" viewBox="0 0 16.4 18">
+    <defs>
+        <style>
+            .vas-delete{fill:none;stroke:#999;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px}
+        </style>
+    </defs>
+    <g transform="translate(1 1)">
+        <path class="vas-delete" d="M4.5,9H18.9" transform="translate(-4.5 -5.8)"/>
+        <path class="vas-delete" d="M18.7,6.2V17.4A1.6,1.6,0,0,1,17.1,19h-8a1.6,1.6,0,0,1-1.6-1.6V6.2m2.4,0V4.6A1.6,1.6,0,0,1,11.5,3h3.2a1.6,1.6,0,0,1,1.6,1.6V6.2" transform="translate(-5.9 -3)"/>
+        <path class="vas-delete" d="M15,16.5v4.8" transform="translate(-9.4 -9.3)"/>
+        <path class="vas-delete" d="M21,16.5v4.8" transform="translate(-12.2 -9.3)"/>
+    </g>
+</svg>

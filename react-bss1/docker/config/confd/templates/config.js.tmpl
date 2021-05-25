@@ -1,0 +1,186 @@
+const config = {
+  basePath: '/bss-cbs-app-upgrade-ui/',
+  dev: {
+    server: {
+      base_url: '{{getenv "API_GATEWAY_URI"}}',
+      dclm_base_url: '{{getenv "DCLM_BASE_URI"}}',
+      queryParams: '?offset=1&limit=10&sort=-name',
+      sso: '{{getenv "SSO_PROXY"}}',
+      opco: '{{getenv "OPCO"}}'
+    },
+    graphQLConfig: {
+      base_url: "{{getenv "DIGITAL_ADAPTOR_URI"}}",
+    },
+    apiConfig: {
+      clickStream: {
+        href: '{{getenv "API_GATEWAY_URI"}}/publish'
+      },
+      customer: {
+        href: '/api/customer-service/customerManagement/v1/customer',
+        strategy: 'reduxFirst'
+      },
+     customerManagement: {
+        href: '{{getenv "MIDDLEWARE_GATEWAY_URI"}}/customer-service/customerManagement/v1/customer'
+      },
+      productManagement: {
+        href: '{{getenv "MIDDLEWARE_GATEWAY_URI"}}/productInventoryManagement/v1/product'
+      },
+      partyManagement: {
+        href: '{{getenv "MIDDLEWARE_GATEWAY_URI"}}/customer-service/partyManagement/v1'
+      },
+	    validateUserName: {
+        href: '{{getenv "MIDDLEWARE_GATEWAY_URI"}}/auth/',
+        queryString: 'validateUserName'
+      },
+      organization: {
+        href: '{{getenv "MIDDLEWARE_GATEWAY_URI"}}/customer-service/partyManagement/v1/organization'
+      },
+      masterData: {
+        href: '{{getenv "MIDDLEWARE_GATEWAY_URI"}}/v1/masterData'
+      },
+      bssCbsMasterData: {
+        href: '{{getenv "MIDDLEWARE_GATEWAY_URI"}}/v1/web-ui-service/v1/masterData'
+      },
+      userInfo: {
+        href: '{{getenv "MIDDLEWARE_GATEWAY_URI"}}/auth/login'
+      },
+      accountManagement: {
+        href: '{{getenv "MIDDLEWARE_GATEWAY_URI"}}/accountManagement/v1'
+      },
+        documentManagement: {
+        href: '{{getenv "MIDDLEWARE_GATEWAY_URI"}}/documentManagement/v1'
+      },
+      ruleService: {
+        href: '{{getenv "MIDDLEWARE_GATEWAY_URI"}}/rules-service/1/CLM/1/'
+      },
+      usageApi: {
+        href: '{{getenv "MIDDLEWARE_GATEWAY_URI"}}/usageApi/v1'
+      },
+      partyInteraction: {
+        href: '{{getenv "MIDDLEWARE_GATEWAY_URI"}}/partyInteractionManagement/v1/partyInteraction'
+      },
+      resourceInventoryManagement: {
+        href: '{{getenv "MIDDLEWARE_GATEWAY_URI"}}/resourceInventoryManagement/v1'
+      },
+      paymentTransaction: {
+        href: '{{getenv "MIDDLEWARE_GATEWAY_URI"}}/paymentManagement/v1/paymentTransaction'
+      },
+      rechargeTransaction: {
+        href: '{{getenv "MIDDLEWARE_GATEWAY_URI"}}/balanceManagement/v1/balanceActivity'
+      },
+	    deactivate: {
+        href: '{{getenv "MIDDLEWARE_GATEWAY_URI"}}/auth/users/deactivate'
+      },
+      changePassword: {
+        href: '{{getenv "MIDDLEWARE_GATEWAY_URI"}}/auth/changePassword'
+      },
+      troubleTicket: {
+        href: '{{getenv "MIDDLEWARE_GATEWAY_URI"}}/troubleTicketManagement/v1',
+        ticket: 'troubleTicket',
+        category: 'category'
+      },
+      troubleTicketCustomerRequest: {
+        href: '{{getenv "MIDDLEWARE_GATEWAY_URI"}}/v1/customerInteractionService/v1/troubleTicketRequest',
+      },
+      verifyUsername: {
+        href: '{{getenv "MIDDLEWARE_GATEWAY_URI"}}/auth',
+        queryString: '/exists'
+      },
+      enrollment: {
+        href: '{{getenv "MIDDLEWARE_GATEWAY_URI"}}/auth/users/enroll'
+      },
+      otp: {
+        href: '{{getenv "MIDDLEWARE_GATEWAY_URI"}}/auth/otp'
+      },
+      verifyOTP: {
+        href: '{{getenv "MIDDLEWARE_GATEWAY_URI"}}/auth/otp/verify'
+      },
+       customerBillManagement: {
+        href: '{{getenv "MIDDLEWARE_GATEWAY_URI"}}/customerBillManagement/v1'
+      },
+      loyalty: {
+        href: '{{getenv "MIDDLEWARE_GATEWAY_URI"}}/loyaltyManagement/programMember',
+        balance: 'loyaltyBalance'
+      },
+      wallet: {
+        href: '{{getenv "MIDDLEWARE_GATEWAY_URI"}}/v1/vk-syndicateIOS/rest/getbalane'
+      },
+      assets: {
+        href: '{{getenv "MIDDLEWARE_GATEWAY_URI"}}/v1/assets'
+      },
+     changePlanProductRequest: {
+        href: '{{getenv "MIDDLEWARE_GATEWAY_URI"}}/partyInteractionManagement/v1/changePlanProductRequest'
+      },
+      serviceRequest: {
+        href: '{{getenv "MIDDLEWARE_GATEWAY_URI"}}/partyInteractionManagement/v1'
+      },
+      productOffering: {
+        href: '{{getenv "MIDDLEWARE_GATEWAY_URI"}}/product-catalog'
+      },
+      dclmProductOffering: {
+        href: '{{getenv "MIDDLEWARE_GATEWAY_URI"}}/product-catalog/productOffering',
+      },
+      paymentRequest: {
+        href: '{{getenv "MIDDLEWARE_GATEWAY_URI"}}/v1/customerInteractionService/v1/paymentAgainstInvoiceRequest'
+      },
+      documentManagement: {
+        href: '{{getenv "MIDDLEWARE_GATEWAY_URI"}}/documentManagement/v1'
+      },
+      userTask: {
+        href: '{{getenv "MIDDLEWARE_GATEWAY_URI"}}/dom/user-tasks/apis'
+      },
+       accountUpdateRequest: {
+        href: '{{getenv "MIDDLEWARE_GATEWAY_URI"}}/v1/customerInteractionService/v1/billingAccountUpdateRequest'
+      },
+      customerUpdateRequest: {
+        href: '{{getenv "MIDDLEWARE_GATEWAY_URI"}}/v1/customerInteractionService/v1/customerInformationUpdateRequest'
+      },
+      forgotPassword: {
+        href: '{{getenv "MIDDLEWARE_GATEWAY_URI"}}/auth/forgotPassword',
+        exists: '/exists',
+        verify: '/otp/verify'
+      },
+      companies: {
+        href: '{{getenv "MIDDLEWARE_GATEWAY_URI"}}/v1/companies'
+      },
+      partyRole: {
+        href: '{{getenv "MIDDLEWARE_GATEWAY_URI"}}/customer-service/partyRoleManagement/v1'
+      },
+      invoiceDownload: {
+        href: '{{getenv "MIDDLEWARE_GATEWAY_URI"}}/customerBillManagement/v1/invoices/bills-view'
+      },
+      equipmentDetails: {
+        href: '{{getenv "MIDDLEWARE_GATEWAY_URI"}}/integration-service/v1/deviceDetails'
+      },
+
+      deEnrollment: {
+        href: '{{getenv "MIDDLEWARE_GATEWAY_URI"}}/auth/users/deEnroll'
+      },
+
+      partyInteractionSave: {
+        href: '{{getenv "MIDDLEWARE_GATEWAY_URI"}}/partyInteractionSave'
+      }
+    },
+    uiConfig: {
+      fieldLengths: {
+        mobile: {{getenv "MOBILE_NUMBER_LENGTH"}}
+      },
+      labels: {
+        customerUATAcceptance: '{{getenv "CUSTOMER_UAT_ACCEPTANCE"}}',
+        searchTitle: '{{getenv "SEARCH_TITLE"}}',
+        displayChatBot: '{{getenv "DISPLAY_CHAT_BOT"}}'
+      },
+      subscriptionHistoryDays:'{{getenv "SUBSCRIPTION_HISTORY_DAYS"}}',
+      defaultThemecolor:'{{getenv "DEFAULT_THEME_COLOR"}}',
+      defaultThemeTextColor:'{{getenv "DEFAULT_THEME_TEXT_COLOR"}}'
+    }
+  }
+};
+var window;
+if (window) {
+  window.DMLD_CONFIG = config;
+}
+var module;
+if (module) {
+  module.exports = config;
+}

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="16" viewBox="0 0 18 16">
+    <defs>
+        <style>
+            .cls-filter-color{fill:#e5e5e5}
+            .cls-secondary{fill:#999}
+        </style>
+    </defs>
+    <g id="Filter" transform="translate(-464.724 -201.877)">
+        <circle id="Ellipse_5" cx="4" cy="4" r="4" class="cls-filter-color" data-name="Ellipse 5" transform="translate(474.724 201.877)"/>
+        <path id="Path_27429" d="M399 153.5a4 4 0 1 1 4-4 4 4 0 0 1-4 4zm0-6a2 2 0 1 0 2 2 2 2 0 0 0-2-2z" class="cls-secondary" data-name="Path 27429" transform="translate(79.724 56.377)"/>
+        <circle id="Ellipse_6" cx="4" cy="4" r="4" class="cls-filter-color" data-name="Ellipse 6" transform="translate(464.724 209.877)"/>
+        <path id="Path_27430" d="M389 161.5a4 4 0 1 1 4-4 4 4 0 0 1-4 4zm0-6a2 2 0 1 0 2 2 2 2 0 0 0-2-2z" class="cls-secondary" data-name="Path 27430" transform="translate(79.724 56.377)"/>
+        <path id="Rectangle_8267" d="M0 0h8v2H0z" class="cls-secondary" data-name="Rectangle 8267" transform="translate(465.724 205.377)"/>
+        <path id="Rectangle_8268" d="M0 0h8v2H0z" class="cls-secondary" data-name="Rectangle 8268" transform="translate(473.724 212.377)"/>
+    </g>
+</svg>

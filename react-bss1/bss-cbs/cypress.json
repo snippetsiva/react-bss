@@ -1,0 +1,38 @@
+{
+  "projectId": "zi1oo4",
+  "chromeWebSecurity": false,
+  "baseUrl": "http://localhost:3000",
+  "viewportWidth": 1366,
+  "viewportHeight": 1200,
+  "defaultCommandTimeout": 10000,
+  "requestTimeout": 30000,
+  "env": {
+    "sso": {
+      "url": "https://sso2.tecnotree.com/",
+      "username": "mclmapp",
+      "password": "Tecnotree#2",
+      "oldUsername": "9900005046",
+      "oldPassword": "Tecnotree@123",
+      "client_id": "KZd5UAQj1GQES0CMRlZrJE7IC4Ya",
+      "client_secret": "pql1DPYmYyqW_bX1fNyzlrL1v7Aa"
+    },
+    "variable": {
+      "userName": "fr@ws.com",
+      "password": "Pass@123",
+      "userName1": "9900005046",
+      "password1": "Tecnotree@123"
+    }
+  },
+  "reporter": "mochawesome",
+  "reporterOptions": {
+    "reportDir": "cypress/reports",
+    "reportFilename": "report",
+    "overwrite": false,
+    "html": true,
+    "json": true,
+    "charts": true
+  },
+  "video": false,
+  "screenshot": true,
+  "screenshotsFolder": "cypress/reports/assets"
+}

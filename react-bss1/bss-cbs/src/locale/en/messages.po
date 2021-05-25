@@ -1,0 +1,3080 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2020-05-22 11:35+0530\n"
+"Mime-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: en\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#: src/components/Common/InternetUsage.jsx:392
+#: src/components/Product/Usage/UsageModalComponent.jsx:252
+msgid "*max date range: 30 days"
+msgstr "*max date range: 30 days"
+
+#: src/common/components/OfferCardGQL.jsx:584
+msgid "+"
+msgstr "+"
+
+#: src/components/Product/AddVas/VasCompares.jsx:106
+msgid "+ Add to Compare"
+msgstr "+ Add to Compare"
+
+#: src/common/components/OfferCardGQL.jsx:578
+msgid "-"
+msgstr ""
+
+#: src/components/Product/AddVas/VasCompares.jsx:98
+#: src/components/Product/OrgVasDetails/Card.jsx:239
+msgid "/ mo"
+msgstr "/ mo"
+
+#: src/common/components/OfferCardGQL.jsx:500
+#: src/components/Dashboard/Component/OfferCard.jsx:531
+msgid "/ upfront"
+msgstr "/ upfront"
+
+#: src/components/Product/AddVas/VasCompares.jsx:139
+msgid "12 Months"
+msgstr "12 Months"
+
+#: src/components/Dashboard/AccountManagerDashboard.jsx:87
+msgid "50.00"
+msgstr ""
+
+#: src/components/Product/LoyalityPoints/LoyalityPoints.jsx:99
+msgid "ACCRUED"
+msgstr "ACCRUED"
+
+#: src/components/Header/LinkUserModal.jsx:184
+msgid "ADDRESS"
+msgstr ""
+
+#: src/common/components/ProductSection/InstallationAddress.jsx:62
+#: src/components/Product/OrderHistory/sections/BillingDetails.jsx:127
+#: src/components/Product/OrderHistory/sections/ContactInfo.jsx:110
+#: src/components/Product/OrderHistory/sections/ServiceDetails.jsx:63
+msgid "ADDRESS LINE 1"
+msgstr "ADDRESS LINE 1"
+
+#: src/srq/components/SelfRegistrationCapture/components/CompanyAddress.jsx:137
+msgid "ADDRESS LINE 1<0>*</0>"
+msgstr ""
+
+#: src/common/components/ProductSection/InstallationAddress.jsx:66
+#: src/components/Product/OrderHistory/sections/BillingDetails.jsx:131
+#: src/components/Product/OrderHistory/sections/ContactInfo.jsx:114
+#: src/components/Product/OrderHistory/sections/ServiceDetails.jsx:67
+msgid "ADDRESS LINE 2"
+msgstr "ADDRESS LINE 2"
+
+#: src/common/components/ProductSection/InstallationAddress.jsx:70
+#: src/components/Product/OrderHistory/sections/BillingDetails.jsx:135
+#: src/components/Product/OrderHistory/sections/ContactInfo.jsx:118
+#: src/components/Product/OrderHistory/sections/ServiceDetails.jsx:71
+msgid "ADDRESS LINE 3"
+msgstr "ADDRESS LINE 3"
+
+#: src/common/components/ProductSection/InstallationAddress.jsx:76
+#: src/components/Product/OrderHistory/sections/BillingDetails.jsx:140
+#: src/components/Product/OrderHistory/sections/ServiceDetails.jsx:77
+msgid "ADDRESS LINE 4"
+msgstr "ADDRESS LINE 4"
+
+#: src/common/components/ProductSection/InstallationAddress.jsx:80
+#: src/components/Product/OrderHistory/sections/BillingDetails.jsx:144
+#: src/components/Product/OrderHistory/sections/ServiceDetails.jsx:81
+msgid "ADDRESS LINE 5"
+msgstr "ADDRESS LINE 5"
+
+#: src/components/Product/OrderHistory/sections/ServiceDetails.jsx:451
+msgid "AGENT"
+msgstr "AGENT"
+
+#: src/components/Common/XtraTime.jsx:253
+#: src/components/Dashboard/Component/BillsSummary.jsx:66
+#: src/components/Dashboard/Component/BillsSummary.jsx:108
+msgid "AMOUNT"
+msgstr "AMOUNT"
+
+#: src/components/Product/OrderHistory/sections/ServiceDetails.jsx:405
+msgid "APPOINTMENT ID"
+msgstr "APPOINTMENT ID"
+
+#: src/components/Product/OrgVasDetails/RemoveModal.jsx:434
+msgid "AUTO RENEWAL"
+msgstr "AUTO RENEWAL"
+
+#: src/components/Dashboard/AccountManagerDashboard.jsx:86
+#: src/components/Dashboard/AccountManagerDashboard.jsx:97
+#: src/components/Dashboard/AccountManagerDashboard.jsx:108
+msgid "AVAILABLE"
+msgstr "AVAILABLE"
+
+#: src/common/components/ProductCard/ProductCard.jsx:61
+#: src/components/Product/Product.jsx:59
+#: src/components/Product/Profile/AccountDeactivation/AccountDeactivation.jsx:132
+#: src/components/Product/Profile/Profile.jsx:175
+#: src/components/ProductCard/ProductCard.jsx:61
+#: src/srq/common/Account/AccountCard.jsx:101
+#: src/srq/common/AccountSelection/AccountSelection.jsx:184
+#: src/srq/common/AccountSelection/AccountSelection.jsx:231
+msgid "Account"
+msgstr "Account"
+
+#: src/components/IndHomePage/IndHomePage.jsx:131
+#: src/components/OrgHomePage/OrgHomePage.jsx:138
+#: src/components/ServiceCard/ServiceCard.jsx:47
+msgid "Account Details"
+msgstr "Account Details"
+
+#: src/components/Product/AccountView/AccountManager.jsx:25
+#: src/components/Product/OrderHistory/Update/Update.jsx:111
+msgid "Account Owner"
+msgstr "Account Owner"
+
+#: src/srq/components/CorporateCustomerCapture/ManageHierarchy/AddAccount/AddAccount.jsx:301
+msgid "Account Owner Details"
+msgstr "Account Owner Details"
+
+#: src/components/Product/Profile/AccountDeactivation/AccountDeactivation.jsx:173
+msgid "Account will be deactivated. You need to re-register to activate again"
+msgstr "Account will be deactivated. You need to re-register to activate again"
+
+#: src/components/Product/OrderHistory/sections/ServiceDetails.jsx:538
+#: src/components/Product/OrgVasDetails/SubscriptionVasDetails.jsx:358
+#: src/components/Product/OrgVasDetails/SubscriptionVasDetails.jsx:368
+msgid "Action"
+msgstr "Action"
+
+#: src/common/components/ProductSection/ProductSection.jsx:321
+msgid "Activation Date"
+msgstr "Activation Date"
+
+#: src/components/Product/Documents/DocCards.jsx:140
+msgid "Active"
+msgstr "Active"
+
+#: src/srq/components/CorporateCustomerCapture/ManageHierarchy/ManageHierarchy.jsx:87
+msgid "Add Account"
+msgstr "Add Account"
+
+#: src/components/Address/AddressWrapper.jsx:517
+msgid "Add Address"
+msgstr "Add Address"
+
+#: src/components/Product/WalletCard/WalletCard.jsx:38
+msgid "Add Money"
+msgstr "Add Money"
+
+#: src/components/Product/OrgVasDetails/NewCard.jsx:66
+msgid "Add New VAS"
+msgstr "Add New VAS"
+
+#: src/components/Product/Payments/PaymentCapture/card.jsx:171
+#: src/srq/components/PaymentCapture/card.jsx:172
+#: src/srq/components/PaymentCapture/cash.jsx:128
+#: src/srq/components/PaymentCapture/cheque.jsx:211
+msgid "Add Payment"
+msgstr "Add Payment"
+
+#: src/srq/components/CorporateCustomerCapture/ManageHierarchy/ManageHierarchy.jsx:78
+msgid "Add Sub Profile"
+msgstr "Add Sub Profile"
+
+#: src/common/components/OfferDetails/OfferDetails.jsx:261
+#: src/components/Dashboard/Component/OfferCard.jsx:612
+#: src/components/Product/AddVas/VasCompares.jsx:112
+msgid "Add to Cart"
+msgstr "Add to Cart"
+
+#: src/srq/components/CorporateCustomerCapture/ManageHierarchy/ManageHierarchy.jsx:60
+msgid "Add/Edit Offerings"
+msgstr "Add/Edit Offerings"
+
+#: src/components/Address/Street.jsx:37
+#: src/components/Address/Street.jsx:47
+#: src/components/Product/OrderHistory/Update/Update.jsx:652
+#: src/components/Product/OrgCustomerDetails/AddressComponent.jsx:31
+#: src/srq/components/CorporateCustomerCaptureDummy/OrgCustomerDetails/AddressComponent.jsx:31
+msgid "Address"
+msgstr "Address"
+
+#: src/srq/components/ProductConfiguration/SimpleProductOffering/SimpleProductOffering.jsx:66
+msgid "Address Details"
+msgstr "Address Details"
+
+#: src/components/Address/Street.jsx:25
+msgid "Address Format"
+msgstr "Address Format"
+
+#: src/components/Header/LinkUserModal.jsx:32
+msgid "Address is required"
+msgstr ""
+
+#: src/components/Product/AccountView/BilledAndUnbilledInfo.jsx:90
+msgid "Advance Rental Amount"
+msgstr "Advance Rental Amount"
+
+#: src/srq/components/CorporateCustomerCapture/components/UserInfo.jsx:35
+msgid "Agent ID"
+msgstr "Agent ID"
+
+#: src/components/LeftNav/LeftNav.jsx:106
+#: src/components/OrgLeftNav/OrgLeftNav.jsx:378
+msgid "All"
+msgstr "All"
+
+#: src/components/FirstPage/Component/AvailabilityCheck.jsx:234
+msgid "Already a customer?"
+msgstr "Already a customer?"
+
+#: src/components/Product/OrgCustomerDetails/PrimaryContact.jsx:572
+#: src/components/Product/OrgCustomerDetails/PrimaryContact.jsx:573
+msgid "Alternate Email is not valid!"
+msgstr ""
+
+#: src/components/Product/OrgCustomerDetails/PrimaryContact.jsx:564
+msgid "Alternate Mobile Number is not valid"
+msgstr ""
+
+#: src/components/Product/Payments/RechargeHistory/RechargeHistory.jsx:38
+msgid "Amount"
+msgstr "Amount"
+
+#: src/srq/components/PaymentCapture/card.jsx:83
+#: src/srq/components/PaymentCapture/cash.jsx:88
+#: src/srq/components/PaymentCapture/cheque.jsx:89
+msgid "Amount to Pay"
+msgstr ""
+
+#: src/common/components/Filter/FilterComponent.jsx:359
+msgid "Apply"
+msgstr "Apply"
+
+#: src/srq/components/ProductConfiguration/SimpleProductOffering/SimpleProductOffering.jsx:65
+msgid "Appointment Details"
+msgstr ""
+
+#: src/components/Product/OrderHistory/RightSidePane.jsx:665
+msgid "Appointments"
+msgstr "Appointments"
+
+#: src/wizard/components/RequestCart/OverrideSummary.jsx:161
+msgid "Approval status"
+msgstr ""
+
+#: src/common/request/TimelineCard.jsx:216
+msgid "Approve"
+msgstr "Approve"
+
+#: src/wizard/components/RequestCart/RequestCartOld.jsx:571
+msgid "Approve Manually"
+msgstr ""
+
+#: src/common/request/TimelineCard.jsx:216
+#: src/wizard/components/RequestCart/OverrideSummary.jsx:126
+msgid "Approved"
+msgstr "Approved"
+
+#: src/components/Product/Profile/AccountDeactivation/AccountDeactivation.jsx:201
+msgid "Are You Sure Want To Deactivate Your Account?"
+msgstr "Are You Sure Want To Deactivate Your Account?"
+
+#: src/srq/common/Header/Header.jsx:76
+msgid "Are you sure you want to exit?"
+msgstr ""
+
+#: src/srq/components/ProductConfiguration/SimpleProductOffering/SimpleProductOffering.jsx:64
+msgid "Assets Details"
+msgstr ""
+
+#: src/components/Product/OrderHistory/RequestCard.jsx:15
+msgid "Associate ID"
+msgstr "Associate ID"
+
+#: src/components/Product/OrgVasDetails/SubscriptionVasDetails.jsx:359
+msgid "Auto Renewal"
+msgstr "Auto Renewal"
+
+#: src/srq/components/ProductConfiguration/SpecificationCharacteristic/SpecificationCharacteristic.jsx:436
+msgid "Automatic"
+msgstr ""
+
+#: src/srq/components/ProductConfiguration/SpecificationCharacteristic/SpecificationCharacteristic.jsx:363
+#: src/srq/components/ProductConfiguration/SpecificationCharacteristic/SpecificationCharacteristic.jsx:469
+msgid "Available"
+msgstr ""
+
+#: src/components/Product/Payments/RechargeHistory/RechargeHistory.jsx:34
+msgid "BALANCE"
+msgstr "BALANCE"
+
+#: src/components/Product/OrderHistory/sections/BillingDetails.jsx:80
+msgid "BILL DISPATCH"
+msgstr ""
+
+#: src/components/Product/Payments/UnpaidBills/UnpaidBills.jsx:55
+msgid "BILLING CYCLE"
+msgstr "BILLING CYCLE"
+
+#: src/components/Footer/Footer.jsx:73
+msgid "Back To Top"
+msgstr "Back To Top"
+
+#: src/components/LoginPage/ForgotPassword/OTPStep.jsx:141
+#: src/components/LoginPage/ForgotPassword/UserNameStep.jsx:51
+#: src/components/LoginPage/SignUp/OTPStep.jsx:143
+#: src/components/LoginPage/SignUp/UserNameStep.jsx:177
+msgid "Back to login"
+msgstr "Back to login"
+
+#: src/srq/components/PaymentCapture/cheque.jsx:146
+msgid "Bank Name"
+msgstr ""
+
+#: src/components/Product/AddVas/VasCartDetails.jsx:109
+#: src/components/Product/AddVas/VasCartDetails.jsx:219
+#: src/wizard/components/RequestCart/CartList.jsx:129
+msgid "Base Price"
+msgstr ""
+
+#: src/components/Product/OrderHistory/sections/BillingDetails.jsx:111
+msgid "Bill Currency"
+msgstr ""
+
+#: src/components/Product/OrderHistory/sections/BillingDetails.jsx:107
+msgid "Bill Cycle"
+msgstr ""
+
+#: src/components/Product/AccountView/BilledAndUnbilledInfo.jsx:105
+msgid "Billable Amount"
+msgstr ""
+
+#: src/components/Product/AccountView/BilledAndUnbilledInfo.jsx:120
+msgid "Billed Outstanding Amount"
+msgstr ""
+
+#: src/components/Product/OrderHistory/RightSidePane.jsx:603
+msgid "Billing Account"
+msgstr "Billing Account"
+
+#: src/components/Dashboard/Component/InteractionTable/InteractionTable.jsx:1110
+#: src/components/Product/OrderHistory/RightSidePane.jsx:466
+msgid "Billing Account Update Details"
+msgstr "Billing Account Update Details"
+
+#: src/components/Product/OrderHistory/sections/BillingDetails.jsx:201
+msgid "Billing Address"
+msgstr ""
+
+#: src/components/Product/OrderHistory/sections/BillingDetails.jsx:68
+msgid "Billing Name"
+msgstr ""
+
+#: src/components/Product/OrderHistory/sections/BillingDetails.jsx:213
+msgid "Billing Preference"
+msgstr ""
+
+#: src/components/Product/OrderHistory/sections/BillingDetails.jsx:115
+msgid "Billing Region"
+msgstr ""
+
+#: src/components/Dashboard/AccountManagerDashboard.jsx:118
+msgid "Bills Summary"
+msgstr "Bills Summary"
+
+#: src/srq/components/PaymentCapture/cheque.jsx:172
+msgid "Branch Name"
+msgstr ""
+
+#: src/components/Dashboard/Component/BroadCastMessage.jsx:32
+msgid "Broadcast Message:"
+msgstr "Broadcast Message:"
+
+#: src/components/BusinessDevice/BusinessDevice.jsx:76
+msgid "Bulk Operations"
+msgstr "Bulk Operations"
+
+#: src/components/LeftNav/LeftNav.jsx:127
+msgid "Bundle"
+msgstr "Bundle"
+
+#: src/components/LoginPage/ForgotPassword/ChangePasswordStep.jsx:113
+#: src/components/LoginPage/SignUp/EnrollFieldsStep.jsx:195
+msgid "By creating a self care account you accept the Terms & Conditions"
+msgstr "By creating a self care account you accept the Terms & Conditions"
+
+#: src/components/Product/Payments/RechargeHistory/RechargeHistory.jsx:29
+msgid "CARD TYPE"
+msgstr "CARD TYPE"
+
+#: src/components/Common/OttStatus.jsx:179
+msgid "CATEGORY"
+msgstr ""
+
+#: src/components/Common/XtraTime.jsx:248
+msgid "CHANNEL"
+msgstr ""
+
+#: src/components/FirstPage/Component/Location.jsx:23
+msgid "CHECK SERVICEABILITY"
+msgstr ""
+
+#: src/srq/components/ProductConfiguration/MapContainer.jsx:215
+msgid "CITY"
+msgstr "CITY"
+
+#: src/common/components/Comments/AddComment.jsx:110
+msgid "COMMENTS"
+msgstr "COMMENTS"
+
+#: src/srq/components/SelfRegistrationCapture/components/CompanyDetails.jsx:101
+msgid "COMPANY NAME<0>*</0>"
+msgstr ""
+
+#: src/components/Product/OrderHistory/sections/ServiceDetails.jsx:463
+msgid "COMPLETION DATE"
+msgstr ""
+
+#: src/components/Product/OrderHistory/sections/BillingDetails.jsx:72
+msgid "CONTACT NUMBER"
+msgstr ""
+
+#: src/common/components/ProductSection/InstallationAddress.jsx:86
+#: src/components/Product/OrderHistory/sections/ServiceDetails.jsx:86
+#: src/srq/components/ProductConfiguration/MapContainer.jsx:161
+msgid "COUNTRY"
+msgstr "COUNTRY"
+
+#: src/srq/components/SelfRegistrationCapture/components/CompanyAddress.jsx:165
+msgid "COUNTRY<0>*</0>"
+msgstr ""
+
+#: src/components/Dashboard/Component/InteractionTable/InteractionTable.jsx:958
+msgid "CREATED DATE"
+msgstr ""
+
+#: src/srq/components/SelfRegistrationCapture/components/CompanyDetails.jsx:165
+msgid "CUSTOMER CATEGORY<0>*</0>"
+msgstr ""
+
+#: src/common/components/CallTimer/CallTimerDialouge.jsx:116
+msgid "Call Duration"
+msgstr ""
+
+#: src/common/components/CardComponent/CardComponent.jsx:479
+#: src/common/components/DocumentField/DocumentInfo.jsx:208
+#: src/common/components/Modal/Modal.jsx:67
+#: src/components/Dialog/Dialog.jsx:63
+#: src/components/Header/LinkUserModal.jsx:225
+#: src/components/Product/AccountView/AccountManager.jsx:83
+#: src/components/Product/AccountView/BillingCycle.jsx:93
+#: src/components/Product/AccountView/BillingPreference.jsx:107
+#: src/components/Product/AccountView/CreditLimitDetails.jsx:88
+#: src/components/Product/AccountView/Info.jsx:193
+#: src/components/Product/AccountView/PaymentMode.jsx:73
+#: src/components/Product/AccountView/TaxDetails.jsx:84
+#: src/components/Product/GprsDialogModal/GprsDialog.jsx:117
+#: src/components/Product/OrgCustomerDetails/AddressComponent.jsx:80
+#: src/components/Product/OrgCustomerDetails/PrimaryContact.jsx:203
+#: src/components/Product/OrgCustomerDetails/ProfileOwnerDetails.jsx:179
+#: src/components/Product/Profile/AccountDeactivation/AccountDeactivation.jsx:179
+#: src/components/Product/Profile/AccountDeactivation/AccountDeactivation.jsx:214
+#: src/components/Product/Profile/ChangePassword/ChangePassword.jsx:150
+#: src/components/Product/Requests/QuickReport.jsx:139
+#: src/components/Product/Requests/RequestForm.jsx:485
+#: src/srq/components/CorporateCustomerCapture/ManageHierarchy/AddAccount/AddAccount.jsx:384
+#: src/srq/components/CorporateCustomerCapture/ManageHierarchy/AddSubProfile/AddSubProfile.jsx:247
+#: src/srq/components/CorporateCustomerCaptureDummy/OrgCustomerDetails/AddressComponent.jsx:81
+#: src/srq/components/CorporateCustomerCaptureDummy/OrgCustomerDetails/PrimaryContact.jsx:162
+#: src/srq/components/CorporateCustomerCaptureDummy/OrgCustomerDetails/ProfileOwnerDetails.jsx:163
+#: src/wizard/components/RequestCart/CartFooter.jsx:77
+msgid "Cancel"
+msgstr "Cancel"
+
+#: src/components/Product/Payments/PaymentCapture/card.jsx:132
+#: src/components/Product/Payments/RechargeHistory/RechargeHistory.jsx:38
+#: src/srq/components/PaymentCapture/card.jsx:131
+msgid "Card Type"
+msgstr "Card Type"
+
+#: src/components/Product/Payments/PaymentCapture/card.jsx:222
+#: src/components/Product/Payments/PaymentCapture/card.jsx:224
+#: src/srq/components/PaymentCapture/card.jsx:227
+#: src/srq/components/PaymentCapture/card.jsx:232
+msgid "Card details are required"
+msgstr "Card details are required"
+
+#: src/srq/components/PaymentCapture/PaymentMethods.jsx:75
+msgid "Cash"
+msgstr ""
+
+#: src/components/Product/Requests/RequestForm.jsx:401
+msgid "Category"
+msgstr "Category"
+
+#: src/components/Header/Settings/Tabs/ChangePasswordTab.jsx:344
+msgid "Change"
+msgstr ""
+
+#: src/srq/components/CorporateCustomerCapture/ManageHierarchy/Offers/Add.jsx:272
+msgid "Change Offer"
+msgstr ""
+
+#: src/components/Product/OrderHistory/sections/ChannelDetails.jsx:81
+msgid "Channel"
+msgstr ""
+
+#: src/srq/components/PaymentCapture/PaymentMethods.jsx:97
+msgid "Charge in Invoice"
+msgstr ""
+
+#: src/components/Product/AddVas/VasConfig.jsx:213
+#: src/components/Product/AddVas/VasDetails.jsx:124
+#: src/components/Product/ChangeOfPlanSR/PlanConfig.jsx:239
+msgid "Charges & Installment"
+msgstr ""
+
+#: src/wizard/components/RequestCart/CartFooter.jsx:54
+msgid "Charges are exclusive of taxes"
+msgstr ""
+
+#: src/srq/components/PaymentCapture/PaymentMethods.jsx:90
+msgid "Cheque"
+msgstr ""
+
+#: src/srq/components/PaymentCapture/cheque.jsx:122
+#: src/srq/components/PaymentCapture/cheque.jsx:130
+msgid "Cheque Date"
+msgstr ""
+
+#: src/srq/components/PaymentCapture/cheque.jsx:109
+msgid "Cheque Number"
+msgstr ""
+
+#: src/srq/components/PaymentCapture/cheque.jsx:279
+msgid "Cheque number is required"
+msgstr ""
+
+#: src/components/Product/OrderHistory/sections/ContactInfo.jsx:122
+msgid "City"
+msgstr "City"
+
+#: src/common/components/Filter/FilterComponent.jsx:354
+msgid "Clear"
+msgstr "Clear"
+
+#: src/components/Product/NeedHelp/NeedHelp.jsx:256
+msgid "Click"
+msgstr "Click"
+
+#: src/components/Product/DocumentsUpload/DocumentsUpload.jsx:115
+msgid "Click View!"
+msgstr ""
+
+#: src/components/Product/Requests/QuickReport.jsx:133
+msgid "Click on Report to send your request"
+msgstr "Click on Report to send your request"
+
+#: src/components/Product/Profile/CustomerDetails/CustomerDetails.jsx:40
+msgid "Client id"
+msgstr "Client id"
+
+#: src/common/components/CallTimer/CallTimerDialouge.jsx:36
+#: src/common/components/DocumentField/DocumentInfo.jsx:209
+#: src/common/components/OfferDetails/OfferDetails.jsx:216
+#: src/wizard/components/OverrideCharges/OverrideCharges.jsx:323
+msgid "Close"
+msgstr ""
+
+#: src/components/Common/LoyaltyBalance.jsx:323
+#: src/components/Common/LoyaltyBalance.jsx:381
+msgid "Closing balance"
+msgstr ""
+
+#: src/components/Product/OrgVasDetails/SubscriptionVasDetails.jsx:352
+#: src/components/Product/OrgVasDetails/SubscriptionVasDetails.jsx:362
+msgid "Code"
+msgstr "Code"
+
+#: src/wizard/components/RequestCart/RequestCartOld.jsx:653
+msgid "Collapse All"
+msgstr ""
+
+#: src/components/Product/OrderHistory/RightSidePane.jsx:175
+#: src/srq/components/PaymentCapture/card.jsx:155
+#: src/srq/components/PaymentCapture/cash.jsx:108
+#: src/srq/components/PaymentCapture/cheque.jsx:196
+msgid "Comments"
+msgstr "Comments"
+
+#: src/components/Product/Payments/PaymentCapture/card.jsx:233
+#: src/srq/components/PaymentCapture/card.jsx:241
+#: src/srq/components/PaymentCapture/cash.jsx:198
+#: src/srq/components/PaymentCapture/cheque.jsx:285
+msgid "Comments are mandatory"
+msgstr "Comments are mandatory"
+
+#: src/srq/components/CorporateCustomerCapture/CompanyAddress.jsx:36
+#: src/srq/components/CorporateCustomerCaptureDummy/OrgCustomerDetails/AddressComponent.jsx:59
+msgid "Company Address"
+msgstr "Company Address"
+
+#: src/components/Product/OrderHistory/sections/ContactInfo.jsx:155
+msgid "Company Registration Number"
+msgstr "Company Registration Number"
+
+#: src/components/FirstPage/Component/AvailabilityCheck.jsx:375
+#: src/srq/components/CorporateCustomerCapture/ValidationSchema.jsx:24
+#: src/srq/components/SelfRegistrationCapture/schemaProps.js:71
+msgid "Company name is required"
+msgstr ""
+
+#: src/common/components/OfferCardGQL.jsx:556
+#: src/components/Dashboard/Component/OfferCard.jsx:580
+#: src/wizard/components/Footer/CompareFooter.jsx:176
+msgid "Compare"
+msgstr "Compare"
+
+#: src/components/Product/OrderHistory/OrderHistory.jsx:970
+msgid "Completed"
+msgstr "Completed"
+
+#: src/components/Product/OrderHistory/RightSidePane.jsx:160
+msgid "Completion date"
+msgstr "Completion date"
+
+#: src/components/Product/Profile/ChangePassword/ChangePassword.jsx:124
+msgid "Confirm New Password"
+msgstr "Confirm New Password"
+
+#: src/components/LoginPage/ForgotPassword/ChangePasswordStep.jsx:85
+#: src/components/LoginPage/SignUp/EnrollFieldsStep.jsx:167
+msgid "Confirm Password"
+msgstr "Confirm Password"
+
+#: src/components/Product/Profile/AccountDeactivation/AccountDeactivation.jsx:202
+msgid "Confirm profile deactivation"
+msgstr "Confirm profile deactivation"
+
+#: src/components/Product/OrderHistory/sections/BillingDetails.jsx:189
+msgid "Contact Info"
+msgstr "Contact Info"
+
+#: src/components/Product/OrderHistory/RightSidePane.jsx:574
+msgid "Contact Information"
+msgstr "Contact Information"
+
+#: src/srq/components/CorporateCustomerCapture/ProfileOwnerDetails.jsx:92
+#: src/srq/components/CorporateCustomerCaptureDummy/OrgCustomerDetails/PrimaryContact.jsx:293
+#: src/srq/components/CorporateCustomerCaptureDummy/OrgCustomerDetails/ProfileOwnerDetails.jsx:294
+#: src/srq/components/SelfRegistrationCapture/components/Contact.jsx:142
+msgid "Contact Medium"
+msgstr "Contact Medium"
+
+#: src/components/Product/NeedHelp/NeedHelp.jsx:352
+msgid "Contact Us"
+msgstr "Contact Us"
+
+#: src/common/components/OfferCardGQL.jsx:526
+#: src/components/Dashboard/Component/OfferCard.jsx:554
+#: src/components/Product/AddVas/VasCompares.jsx:136
+#: src/components/Product/AddVas/VasCompares.jsx:177
+msgid "Contract"
+msgstr "Contract"
+
+#: src/common/components/OfferDetails/OfferDetails.jsx:348
+msgid "Contracts Details"
+msgstr ""
+
+#: src/components/Product/OrderHistory/sections/BillingDetails.jsx:156
+#: src/components/Product/OrderHistory/sections/ContactInfo.jsx:130
+msgid "Country"
+msgstr "Country"
+
+#: src/components/Product/OrderHistory/sections/ChannelDetails.jsx:53
+msgid "Created By"
+msgstr ""
+
+#: src/common/components/Filter/FilterComponent.jsx:198
+#: src/components/Product/OrderHistory/sections/ChannelDetails.jsx:59
+msgid "Created Date"
+msgstr ""
+
+#: src/components/Product/Payments/PaymentCapture/PaymentMethods.jsx:98
+#: src/srq/components/PaymentCapture/PaymentMethods.jsx:85
+msgid "Credit Card"
+msgstr "Credit Card"
+
+#: src/components/Product/AccountView/CreditLimitDetails.jsx:146
+msgid "Credit Limit is required for M2M products"
+msgstr ""
+
+#: src/components/Product/OrderHistory/sections/BillingDetails.jsx:87
+msgid "Currency"
+msgstr ""
+
+#: src/components/Product/AccountView/BilledAndUnbilledInfo.jsx:130
+msgid "Current Outstanding Amount"
+msgstr ""
+
+#: src/components/Product/Profile/ChangePassword/ChangePassword.jsx:78
+msgid "Current Password"
+msgstr "Current Password"
+
+#: src/wizard/components/RequestCart/OverrideInputCard.jsx:66
+msgid "Current Price"
+msgstr ""
+
+#: src/components/Product/OrderHistory/sections/CustomerDetailCard.jsx:29
+msgid "Customer Category"
+msgstr "Customer Category"
+
+#: src/components/IndHomePage/IndHomePage.jsx:93
+#: src/components/OrgHomePage/OrgHomePage.jsx:103
+#: src/components/Product/Profile/CustomerDetails/CustomerDetails.jsx:22
+#: src/components/Product/Profile/Profile.jsx:169
+msgid "Customer Details"
+msgstr "CUSTOMER DETAILS"
+
+#: src/components/Header/Header.jsx:86
+msgid "Customer Type :"
+msgstr "Customer Type :"
+
+#: src/components/Dashboard/Component/InteractionTable/InteractionTable.jsx:1108
+#: src/components/Product/OrderHistory/RightSidePane.jsx:464
+msgid "Customer Update Details"
+msgstr "Customer Update Details"
+
+#: src/components/Dashboard/AccountManagerDashboard.jsx:297
+msgid "DASHBOARD"
+msgstr "DASHBOARD"
+
+#: src/components/Product/Payments/RechargeHistory/RechargeHistory.jsx:19
+msgid "DATE"
+msgstr "DATE"
+
+#: src/components/Product/Requests/Requests.jsx:136
+msgid "DATE CREATED"
+msgstr "DATE CREATED"
+
+#: src/components/Common/OttStatus.jsx:174
+#: src/components/Product/Requests/Requests.jsx:130
+msgid "DESCRIPTION"
+msgstr "DESCRIPTION"
+
+#: src/common/components/ProductSection/InstallationAddress.jsx:106
+#: src/components/Product/OrderHistory/sections/ServiceDetails.jsx:109
+msgid "DIGITAL ADDRESS"
+msgstr "DIGITAL ADDRESS"
+
+#: src/common/components/ProductSection/InstallationAddress.jsx:94
+msgid "DISTRICT"
+msgstr "DISTRICT"
+
+#: src/components/LoginPage/LoginPage.jsx:307
+msgid "DMLD"
+msgstr ""
+
+#: src/components/Product/Documents/DocCards.jsx:46
+msgid "DMS Ref No."
+msgstr "DMS Ref No."
+
+#: src/components/Product/Documents/Documents.jsx:94
+msgid "DOCUMENTS"
+msgstr "DOCUMENTS"
+
+#: src/components/Product/Payments/PaidBills/PaidBills.jsx:45
+#: src/components/Product/Payments/UnpaidBills/UnpaidBills.jsx:61
+msgid "DUE DATE"
+msgstr "DUE DATE"
+
+#: src/components/OrgHomePage/OrgHomePage.jsx:88
+msgid "Dashboard"
+msgstr ""
+
+#: src/components/Product/OrgVasDetails/Card.jsx:630
+#: src/components/Product/OrgVasDetails/RemoveModal.jsx:418
+msgid "Data Vas"
+msgstr "Data Vas"
+
+#: src/components/Common/LoyaltyBalance.jsx:302
+#: src/components/Common/LoyaltyBalance.jsx:364
+#: src/components/Product/Payments/RechargeHistory/RechargeHistory.jsx:38
+msgid "Date"
+msgstr "Date"
+
+#: src/components/Header/Settings/Tabs/DeactivateAccountTab.jsx:294
+msgid "Deactivate"
+msgstr ""
+
+#: src/components/Product/Profile/AccountDeactivation/AccountDeactivation.jsx:220
+msgid "Deactivate account"
+msgstr "Deactivate account"
+
+#: src/components/Product/Payments/PaymentCapture/PaymentMethods.jsx:93
+#: src/srq/components/PaymentCapture/PaymentMethods.jsx:80
+msgid "Debit Card"
+msgstr "Debit Card"
+
+#: src/components/Product/AccountView/BilledAndUnbilledInfo.jsx:95
+msgid "Deposits"
+msgstr ""
+
+#: src/common/components/OfferDetails/OfferDetails.jsx:391
+#: src/components/Common/LoyaltyBalance.jsx:386
+#: src/components/Product/AddVas/VasCompares.jsx:128
+#: src/components/Product/AddVas/VasConfig.jsx:201
+#: src/components/Product/AddVas/VasDetails.jsx:112
+#: src/components/Product/ChangeOfPlanSR/PlanConfig.jsx:227
+msgid "Description"
+msgstr ""
+
+#: src/components/Product/OrderHistory/RightSidePane.jsx:509
+msgid "Details"
+msgstr "Details"
+
+#: src/components/Product/OrderHistory/sections/BillingDetails.jsx:168
+#: src/components/Product/OrderHistory/sections/ContactInfo.jsx:142
+msgid "Digital Address"
+msgstr "Digital Address"
+
+#: src/common/components/OfferCardGQL.jsx:411
+#: src/components/Dashboard/Component/OfferCard.jsx:457
+msgid "Diwali Offer"
+msgstr ""
+
+#: src/components/Product/OrgServiceOverview/Details/Details.jsx:684
+#: src/components/Product/ServiceOverview/ServiceOverview.jsx:377
+msgid "Do Not Disturb"
+msgstr ""
+
+#: src/components/Product/Documents/DocCards.jsx:41
+msgid "Document Number"
+msgstr "Document Number"
+
+#: src/srq/components/SelfRegistrationCapture/SelfRegistrationCapture.jsx:77
+#: src/srq/components/Summary/Summary.jsx:77
+msgid "Document Required"
+msgstr ""
+
+#: src/common/components/DocumentField/DocumentInfo.jsx:82
+#: src/common/components/DocumentField/DocumentInfo.jsx:105
+#: src/components/Product/Documents/DocCards.jsx:40
+msgid "Document Type"
+msgstr "Document Type"
+
+#: src/components/IndHomePage/IndHomePage.jsx:99
+#: src/components/IndHomePage/IndHomePage.jsx:137
+#: src/components/IndHomePage/IndHomePage.jsx:181
+#: src/components/OrgHomePage/OrgHomePage.jsx:108
+#: src/components/OrgHomePage/OrgHomePage.jsx:144
+#: src/components/OrgHomePage/OrgHomePage.jsx:188
+#: src/components/Product/OrderHistory/RightSidePane.jsx:640
+#: src/components/ServiceCard/ServiceCard.jsx:53
+msgid "Documents"
+msgstr "Documents"
+
+#: src/components/Dashboard/AccountManagerDashboard.jsx:107
+msgid "Documents Uploaded"
+msgstr "Documents Uploaded"
+
+#: src/common/components/CardComponent/CardComponent.jsx:478
+#: src/common/components/DocumentField/DocumentInfo.jsx:221
+#: src/components/Product/AccountView/AccountManager.jsx:94
+#: src/components/Product/AccountView/BillingCycle.jsx:104
+#: src/components/Product/AccountView/BillingPreference.jsx:116
+#: src/components/Product/AccountView/CreditLimitDetails.jsx:98
+#: src/components/Product/AccountView/Info.jsx:196
+#: src/components/Product/AccountView/PaymentMode.jsx:76
+#: src/components/Product/AccountView/TaxDetails.jsx:87
+#: src/components/Product/OrgCustomerDetails/AddressComponent.jsx:92
+#: src/components/Product/OrgCustomerDetails/PrimaryContact.jsx:215
+#: src/components/Product/OrgCustomerDetails/ProfileOwnerDetails.jsx:191
+#: src/srq/components/CorporateCustomerCaptureDummy/OrgCustomerDetails/AddressComponent.jsx:93
+#: src/srq/components/CorporateCustomerCaptureDummy/OrgCustomerDetails/PrimaryContact.jsx:177
+#: src/srq/components/CorporateCustomerCaptureDummy/OrgCustomerDetails/ProfileOwnerDetails.jsx:178
+msgid "Done"
+msgstr "Done"
+
+#: src/components/Product/OrderHistory/OrderHistory.jsx:960
+msgid "Draft"
+msgstr "Draft"
+
+#: src/common/components/DocumentField/DocumentField.jsx:288
+msgid "Drop your file here"
+msgstr ""
+
+#: src/components/Product/OrderHistory/sections/BillingDetails.jsx:99
+msgid "Dunning Schedule"
+msgstr ""
+
+#: src/components/Header/LinkUserModal.jsx:205
+#: src/components/Product/OrderHistory/sections/BillingDetails.jsx:76
+#: src/srq/components/CorporateCustomerCapture/KeyAccountManager.jsx:70
+#: src/srq/components/CorporateCustomerCapture/ProfileOwnerDetails.jsx:84
+msgid "EMAIL"
+msgstr ""
+
+#: src/srq/components/SelfRegistrationCapture/components/Contact.jsx:120
+msgid "EMAIL<0>*</0>"
+msgstr ""
+
+#: src/components/Product/OrgVasDetails/RemoveModal.jsx:386
+msgid "END DATE"
+msgstr ""
+
+#: src/components/Product/Requests/RequestForm.jsx:356
+msgid "ENTER SERVICE NUMBER"
+msgstr "ENTER SERVICE NUMBER"
+
+#: src/components/Dashboard/AccountManagerDashboard.jsx:102
+#: src/components/Dashboard/AccountManagerDashboard.jsx:113
+msgid "EXPIRING SOON"
+msgstr "EXPIRING SOON"
+
+#: src/common/components/DocumentField/DocumentInfo.jsx:169
+msgid "EXPIRY DATE"
+msgstr ""
+
+#: src/components/Product/OrderHistory/Update/Update.jsx:660
+#: src/components/Product/OrderHistory/sections/ContactInfo.jsx:199
+#: src/components/Product/OrgCustomerDetails/PrimaryContact.jsx:412
+#: src/srq/components/CorporateCustomerCapture/ProfileOwnerDetails.jsx:102
+#: src/srq/components/CorporateCustomerCaptureDummy/OrgCustomerDetails/PrimaryContact.jsx:268
+#: src/srq/components/CorporateCustomerCaptureDummy/OrgCustomerDetails/PrimaryContact.jsx:278
+#: src/srq/components/CorporateCustomerCaptureDummy/OrgCustomerDetails/ProfileOwnerDetails.jsx:268
+#: src/srq/components/CorporateCustomerCaptureDummy/OrgCustomerDetails/ProfileOwnerDetails.jsx:279
+#: src/srq/components/SelfRegistrationCapture/components/Contact.jsx:151
+msgid "Email"
+msgstr "Email"
+
+#: src/srq/components/CorporateCustomerCapture/components/UserInfo.jsx:47
+msgid "Email ID"
+msgstr ""
+
+#: src/components/Product/AccountView/AccountManager.jsx:211
+#: src/components/Product/AccountView/AccountManager.jsx:212
+#: src/components/Product/AccountView/Info.jsx:36
+#: src/components/Product/AccountView/Info.jsx:37
+#: src/components/Product/OrgCustomerDetails/PrimaryContact.jsx:567
+#: src/srq/components/CorporateCustomerCapture/ManageHierarchy/AddAccount/AddAccount.jsx:73
+#: src/srq/components/CorporateCustomerCapture/ManageHierarchy/AddAccount/AddAccount.jsx:74
+#: src/srq/components/CorporateCustomerCapture/ValidationSchema.jsx:104
+#: src/srq/components/CorporateCustomerCapture/ValidationSchema.jsx:105
+#: src/srq/components/CorporateCustomerCapture/ValidationSchema.jsx:140
+#: src/srq/components/CorporateCustomerCapture/ValidationSchema.jsx:141
+#: src/srq/components/SelfRegistrationCapture/schemaProps.js:127
+#: src/srq/components/SelfRegistrationCapture/schemaProps.js:128
+msgid "Email is not valid!"
+msgstr "Email is not valid!"
+
+#: src/components/Header/LinkUserModal.jsx:36
+msgid "Email is required"
+msgstr ""
+
+#: src/components/Product/OrgVasDetails/Card.jsx:603
+#: src/components/Product/OrgVasDetails/SubscriptionVasDetails.jsx:355
+#: src/components/Product/OrgVasDetails/SubscriptionVasDetails.jsx:365
+#: src/srq/common/SrqInformation/SrqInformation.jsx:180
+msgid "End Date"
+msgstr "End Date"
+
+#: src/components/LoginPage/LoginPage.jsx:494
+msgid "Enroll here"
+msgstr "Enroll here"
+
+#: src/srq/components/CorporateCustomerCapture/ManageHierarchy/AddAccount/AddAccount.jsx:80
+msgid "Enter Address"
+msgstr ""
+
+#: src/srq/components/SelfRegistrationCapture/schemaProps.js:96
+msgid "Enter Address Line"
+msgstr ""
+
+#: src/components/Product/Payments/PaymentCapture/card.jsx:226
+#: src/srq/components/PaymentCapture/card.jsx:234
+#: src/srq/components/PaymentCapture/cash.jsx:191
+#: src/srq/components/PaymentCapture/cheque.jsx:267
+msgid "Enter Amount"
+msgstr "Enter Amount"
+
+#: src/components/FirstPage/Component/AvailabilityCheck.jsx:234
+msgid "Enter Company Details"
+msgstr ""
+
+#: src/components/FirstPage/Component/AvailabilityCheck.jsx:374
+#: src/srq/components/CorporateCustomerCapture/ValidationSchema.jsx:23
+#: src/srq/components/SelfRegistrationCapture/schemaProps.js:70
+msgid "Enter Company Name"
+msgstr ""
+
+#: src/srq/components/SelfRegistrationCapture/schemaProps.js:102
+msgid "Enter Contact Name"
+msgstr ""
+
+#: src/components/Product/OrgCustomerDetails/PrimaryContact.jsx:555
+#: src/srq/components/SelfRegistrationCapture/schemaProps.js:109
+msgid "Enter Contact last name"
+msgstr ""
+
+#: src/components/FirstPage/Component/AvailabilityCheck.jsx:386
+msgid "Enter Email/Mobile Number"
+msgstr ""
+
+#: src/common/components/DocumentField/DocumentInfo.jsx:85
+msgid "Enter Expiry Date"
+msgstr ""
+
+#: src/components/Product/AccountView/AccountManager.jsx:204
+#: src/components/Product/AccountView/AccountManager.jsx:207
+msgid "Enter Full Name"
+msgstr ""
+
+#: src/common/components/DocumentField/DocumentInfo.jsx:83
+msgid "Enter ID Number"
+msgstr ""
+
+#: src/common/components/DocumentField/DocumentInfo.jsx:84
+msgid "Enter Issue Date"
+msgstr ""
+
+#: src/common/components/DocumentField/DocumentInfo.jsx:87
+#: src/common/utils/validationUtil.jsx:28
+msgid "Enter Issued By"
+msgstr ""
+
+#: src/components/LoginPage/ForgotPassword/OTPStep.jsx:121
+#: src/components/LoginPage/SignUp/OTPStep.jsx:123
+msgid "Enter OTP"
+msgstr "Enter OTP"
+
+#: src/components/LoginPage/ForgotPassword/ChangePasswordStep.jsx:59
+#: src/components/LoginPage/SignUp/EnrollFieldsStep.jsx:131
+msgid "Enter Password"
+msgstr "Enter Password"
+
+#: src/common/utils/validationUtil.jsx:24
+msgid "Enter Place of Issue"
+msgstr ""
+
+#: src/components/Product/OrgCustomerDetails/PrimaryContact.jsx:551
+#: src/srq/components/CorporateCustomerCapture/ValidationSchema.jsx:115
+msgid "Enter Primary Contact Name"
+msgstr ""
+
+#: src/srq/components/CorporateCustomerCapture/ValidationSchema.jsx:122
+msgid "Enter Primary Contact last name"
+msgstr ""
+
+#: src/components/Product/OrgCustomerDetails/ProfileOwnerDetails.jsx:431
+#: src/srq/components/CorporateCustomerCapture/ManageHierarchy/AddAccount/AddAccount.jsx:56
+#: src/srq/components/CorporateCustomerCapture/ValidationSchema.jsx:79
+msgid "Enter Profile Owner Name"
+msgstr ""
+
+#: src/components/Product/OrgCustomerDetails/ProfileOwnerDetails.jsx:435
+#: src/srq/components/CorporateCustomerCapture/ManageHierarchy/AddAccount/AddAccount.jsx:59
+#: src/srq/components/CorporateCustomerCapture/ValidationSchema.jsx:86
+msgid "Enter Profile Owner last name"
+msgstr ""
+
+#: src/components/FirstPage/Component/AvailabilityCheck.jsx:380
+#: src/srq/components/CorporateCustomerCapture/ValidationSchema.jsx:29
+#: src/srq/components/SelfRegistrationCapture/schemaProps.js:76
+msgid "Enter Registration Number"
+msgstr ""
+
+#: src/components/Header/LinkUserModal.jsx:138
+msgid "Enter User Details"
+msgstr ""
+
+#: src/components/LoginPage/SignUp/EnrollFieldsStep.jsx:111
+msgid "Enter User Name"
+msgstr "Enter User Name"
+
+#: src/srq/components/SelfRegistrationCapture/schemaProps.js:82
+msgid "Enter VAT/TIN Number"
+msgstr ""
+
+#: src/components/Product/OrgCustomerDetails/PrimaryContact.jsx:562
+msgid "Enter a Alternate Phone Number"
+msgstr ""
+
+#: src/components/Product/AccountView/Info.jsx:31
+#: src/components/Product/AccountView/Info.jsx:33
+#: src/components/Product/OrgCustomerDetails/PrimaryContact.jsx:559
+#: src/components/Product/OrgCustomerDetails/ProfileOwnerDetails.jsx:439
+msgid "Enter a Phone Number"
+msgstr "Enter a Phone Number"
+
+#: src/components/Product/AccountView/CreditLimitDetails.jsx:145
+msgid "Enter a valid amount"
+msgstr ""
+
+#: src/components/Product/Payments/PaymentCapture/card.jsx:221
+#: src/srq/components/PaymentCapture/card.jsx:225
+msgid "Enter a valid card number"
+msgstr "Enter a valid card number"
+
+#: src/common/utils/validationUtil.jsx:12
+msgid "Enter a valid document ID"
+msgstr "Enter a valid document ID"
+
+#: src/components/Product/AccountView/AccountManager.jsx:215
+msgid "Enter a valid phone number!"
+msgstr ""
+
+#: src/common/utils/validationUtil.jsx:11
+msgid "Enter document number"
+msgstr "Enter document number"
+
+#: src/components/Product/Payments/PaymentCapture/card.jsx:103
+#: src/srq/components/PaymentCapture/card.jsx:100
+msgid "Enter last 4 digits of Card"
+msgstr "Enter last 4 digits of Card"
+
+#: src/common/utils/validationUtil.jsx:29
+msgid "Enter valid Issued By"
+msgstr ""
+
+#: src/common/utils/validationUtil.jsx:25
+msgid "Enter valid Place of Issue"
+msgstr "Enter valid Place of Issue"
+
+#: src/srq/components/CorporateCustomerCapture/ManageHierarchy/AddAccount/AddAccount.jsx:82
+msgid "Enter valid address"
+msgstr ""
+
+#: src/components/Product/Payments/PaymentCapture/card.jsx:227
+#: src/components/Product/Payments/PaymentCapture/card.jsx:230
+#: src/srq/components/PaymentCapture/card.jsx:235
+#: src/srq/components/PaymentCapture/card.jsx:238
+#: src/srq/components/PaymentCapture/cash.jsx:192
+#: src/srq/components/PaymentCapture/cash.jsx:195
+#: src/srq/components/PaymentCapture/cheque.jsx:268
+#: src/srq/components/PaymentCapture/cheque.jsx:271
+msgid "Enter valid amount"
+msgstr "Enter valid amount"
+
+#: src/srq/components/PaymentCapture/cheque.jsx:274
+#: src/srq/components/PaymentCapture/cheque.jsx:277
+msgid "Enter valid cheque number"
+msgstr ""
+
+#: src/srq/components/CorporateCustomerCapture/ManageHierarchy/AddAccount/AddAccount.jsx:88
+#: src/srq/components/CorporateCustomerCapture/ValidationSchema.jsx:59
+msgid "Enter valid landmark"
+msgstr ""
+
+#: src/components/LoginPage/SignUp/UserNameStep.jsx:128
+msgid "Enter your Mobile/ Email ID"
+msgstr "Enter your Mobile/ Email ID"
+
+#: src/components/LoginPage/SignUp/UserNameStep.jsx:148
+msgid "Enter your account ID"
+msgstr ""
+
+#: src/components/LoginPage/ForgotPassword/UserNameStep.jsx:38
+#: src/components/LoginPage/SignUp/UserNameStep.jsx:152
+msgid "Enter your customer ID"
+msgstr "Enter your customer ID"
+
+#: src/components/LoginPage/ForgotPassword/UserNameStep.jsx:24
+msgid "Enter your enrolled user name"
+msgstr "Enter your enrolled user name"
+
+#: src/components/LoginPage/SignUp/UserNameStep.jsx:150
+msgid "Enter your service ID"
+msgstr ""
+
+#: src/common/components/OfferDetails/OfferDetails.jsx:470
+msgid "Equipments"
+msgstr ""
+
+#: src/common/components/OfferDetails/OfferDetails.jsx:232
+msgid "Error in getting the Product Details"
+msgstr ""
+
+#: src/srq/components/PaymentCapture/PaymentCapture.jsx:516
+msgid "Excess Amount Paid"
+msgstr ""
+
+#: src/components/Product/OrderHistory/RightSidePane.jsx:166
+msgid "Execution date"
+msgstr "Execution date"
+
+#: src/wizard/components/RequestCart/RequestCartOld.jsx:628
+msgid "Expand All"
+msgstr ""
+
+#: src/components/Product/Documents/DocCards.jsx:149
+msgid "Expiring"
+msgstr "Expiring"
+
+#: src/common/components/Filter/FilterComponent.jsx:199
+#: src/components/Product/Documents/DocCards.jsx:43
+#: src/components/Product/OrderHistory/sections/DocumentSection.jsx:40
+#: src/srq/components/PaymentCapture/PayLater.jsx:25
+msgid "Expiry Date"
+msgstr "Expiry Date"
+
+#: src/components/Product/NeedHelp/NeedHelp.jsx:274
+msgid "Explore"
+msgstr ""
+
+#: src/components/Header/LinkUserModal.jsx:161
+msgid "FIRST NAME"
+msgstr ""
+
+#: src/components/Product/OrderHistory/OrderHistory.jsx:955
+msgid "Failed"
+msgstr "Failed"
+
+#: src/components/Product/AccountView/AccountView.jsx:188
+msgid "Failed to submit the request"
+msgstr ""
+
+#: src/common/components/OfferCardGQL.jsx:571
+#: src/components/Dashboard/Component/OfferCard.jsx:595
+msgid "Feasibility Check"
+msgstr "Feasibility Check"
+
+#: src/common/components/DocumentField/DocumentField.jsx:139
+msgid "File must be less than {mbs}MB"
+msgstr ""
+
+#: src/srq/common/DocumentCapture/DocumentCapture.jsx:126
+msgid "File types: .jpg, .png, .pdf File size 2mb"
+msgstr ""
+
+#: src/components/Dashboard/Component/InteractionTable/InteractionTable.jsx:1060
+#: src/components/IndHomePage/IndHomePage.jsx:87
+#: src/components/IndHomePage/IndHomePage.jsx:125
+#: src/components/IndHomePage/IndHomePage.jsx:169
+#: src/components/OrgHomePage/OrgHomePage.jsx:98
+#: src/components/OrgHomePage/OrgHomePage.jsx:132
+#: src/components/OrgHomePage/OrgHomePage.jsx:176
+#: src/components/Product/OrderHistory/RightSidePane.jsx:648
+#: src/components/Product/Product.jsx:47
+#: src/components/ServiceCard/ServiceCard.jsx:41
+msgid "Financials"
+msgstr "FINANCIALS"
+
+#: src/components/Product/NeedHelp/NeedHelp.jsx:79
+msgid "Find Nearest Store"
+msgstr "Find Nearest Store"
+
+#: src/components/Product/Requests/Requests.jsx:609
+msgid "Find the answer you're looking to by clicking on Send Request."
+msgstr "Find the answer you're looking to by clicking on Send Request."
+
+#: src/components/Product/AccountView/AccountManager.jsx:206
+msgid "First Name is required"
+msgstr ""
+
+#: src/components/Header/LinkUserModal.jsx:30
+msgid "First name is required"
+msgstr ""
+
+#: src/components/LoginPage/ForgotPassword/ForgotPassword.jsx:64
+msgid "Forgot Password"
+msgstr "Forgot Password"
+
+#: src/components/LoginPage/LoginPage.jsx:468
+msgid "Forgot password"
+msgstr "Forgot password"
+
+#: src/common/components/Filter/FilterComponent.jsx:166
+msgid "From"
+msgstr "From"
+
+#: src/common/components/Filter/FilterComponent.jsx:53
+msgid "From-Date cannot be grater than Today"
+msgstr ""
+
+#: src/common/components/Filter/FilterComponent.jsx:52
+msgid "From-Date cannot be greater than To-Date"
+msgstr ""
+
+#: src/srq/components/CorporateCustomerCapture/components/UserInfo.jsx:39
+msgid "Full Name"
+msgstr ""
+
+#: src/components/Product/GprsDialogModal/GprsDialog.jsx:68
+msgid "GPRS submitted Successfully"
+msgstr ""
+
+#: src/common/components/ProductSection/InstallationAddress.jsx:118
+msgid "GPS COORDINATES"
+msgstr "GPS COORDINATES"
+
+#: src/components/LeftNav/LeftNav.jsx:113
+#: src/components/OrgLeftNav/OrgLeftNav.jsx:392
+msgid "GSM"
+msgstr "GSM"
+
+#: src/wizard/components/Confirmation/Confirmation.jsx:251
+msgid "Go To Homepage"
+msgstr ""
+
+#: src/wizard/components/Wizard/Wizard.jsx:593
+msgid "Go to dashboard"
+msgstr ""
+
+#: src/common/components/CardComponent/CardComponent.jsx:608
+#: src/components/Product/OrgCustomerDetails/PrimaryContact.jsx:521
+msgid "Hide optional details"
+msgstr "Hide optional details"
+
+#: src/components/Product/Product.jsx:35
+msgid "Home"
+msgstr ""
+
+#: src/components/Product/Requests/Requests.jsx:606
+msgid "How can we help you?"
+msgstr "How can we help you?"
+
+#: src/components/Product/Profile/AccountDeactivation/AccountDeactivation.jsx:166
+msgid "I wish to deactivate my account"
+msgstr "I wish to deactivate my account"
+
+#: src/common/components/DocumentField/DocumentInfo.jsx:122
+#: src/common/components/DocumentField/DocumentInfo.jsx:141
+msgid "ID Number"
+msgstr ""
+
+#: src/components/Dashboard/Component/InteractionTable/InteractionTable.jsx:963
+msgid "INITIATOR"
+msgstr ""
+
+#: src/common/request/PaymentDetails.jsx:178
+#: src/components/Product/Payments/PaidBills/PaidBills.jsx:39
+msgid "INVOICE DATE"
+msgstr "INVOICE DATE"
+
+#: src/components/Product/Payments/PaidBills/PaidBills.jsx:28
+#: src/components/Product/Payments/UnpaidBills/UnpaidBills.jsx:39
+msgid "INVOICE ID"
+msgstr "INVOICE ID"
+
+#: src/components/Product/Payments/PaidBills/PaidBills.jsx:50
+#: src/components/Product/Payments/UnpaidBills/UnpaidBills.jsx:67
+msgid "INVOICE TOTAL"
+msgstr "INVOICE TOTAL"
+
+#: src/common/components/DocumentField/DocumentInfo.jsx:157
+msgid "ISSUE DATE"
+msgstr ""
+
+#: src/components/Product/OrderHistory/OrderHistory.jsx:965
+msgid "In Progress"
+msgstr "In Progress"
+
+#: src/components/Product/AddVas/VasCompares.jsx:181
+msgid "Inclusion & alowances"
+msgstr ""
+
+#: src/common/components/OfferDetails/OfferDetails.jsx:418
+msgid "Inclusions & Allowance"
+msgstr ""
+
+#: src/components/Dashboard/Component/InteractionTable/InteractionTable.jsx:1060
+#: src/components/Dashboard/Component/InteractionTable/InteractionTable.jsx:1080
+#: src/components/Product/OrderHistory/RightSidePane.jsx:648
+msgid "Inclusive of taxes"
+msgstr "Inclusive of taxes"
+
+#: src/common/components/ProductSection/InstallationAddress.jsx:131
+#: src/components/Product/OrderHistory/sections/ServiceDetails.jsx:226
+msgid "Installation Address"
+msgstr "Installation Address"
+
+#: src/common/request/PaymentDetails.jsx:136
+msgid "Installation fee"
+msgstr "Installation fee"
+
+#: src/components/Product/AccountView/BilledAndUnbilledInfo.jsx:100
+msgid "Installment Amount"
+msgstr ""
+
+#: src/components/Common/InternetUsage.jsx:434
+msgid "Internet Usage Details"
+msgstr ""
+
+#: src/wizard/components/OverrideCharges/OverrideCharges.jsx:205
+#: src/wizard/components/OverrideCharges/OverrideCharges.jsx:206
+#: src/wizard/components/OverrideCharges/OverrideCharges.jsx:207
+msgid "Invalid"
+msgstr ""
+
+#: src/components/Address/AddressWrapper.jsx:184
+msgid "Invalid Address Format"
+msgstr "Invalid Address Format"
+
+#: src/srq/components/ProductConfiguration/SpecificationCharacteristic/SpecificationCharacteristic.jsx:132
+msgid "Invalid. Please re-enter!"
+msgstr ""
+
+#: src/components/Product/Documents/DocCards.jsx:42
+#: src/components/Product/OrderHistory/sections/DocumentSection.jsx:39
+msgid "Issue Date"
+msgstr "Issue Date"
+
+#: src/common/components/DocumentField/DocumentInfo.jsx:195
+msgid "Issued By"
+msgstr ""
+
+#: src/components/Product/HeaderWithFilter/index.jsx:16
+msgid "KPIS"
+msgstr "KPIS"
+
+#: src/srq/components/CorporateCustomerCapture/KeyAccountManager.jsx:35
+msgid "Key Account Manager"
+msgstr ""
+
+#: src/common/components/ProductSection/InstallationAddress.jsx:102
+#: src/components/Product/OrderHistory/sections/ServiceDetails.jsx:105
+msgid "LANDMARK"
+msgstr "LANDMARK"
+
+#: src/components/Header/LinkUserModal.jsx:170
+#: src/srq/components/CorporateCustomerCapture/ProfileOwnerDetails.jsx:60
+msgid "LAST NAME"
+msgstr ""
+
+#: src/srq/components/SelfRegistrationCapture/components/Contact.jsx:83
+msgid "LAST NAME<0>*</0>"
+msgstr ""
+
+#: src/components/Product/OrderHistory/sections/BillingDetails.jsx:164
+#: src/components/Product/OrderHistory/sections/ContactInfo.jsx:138
+msgid "Landmark"
+msgstr "Landmark"
+
+#: src/components/Product/OrderHistory/sections/BillingDetails.jsx:91
+msgid "Language"
+msgstr ""
+
+#: src/components/Product/Profile/CustomerDetails/CustomerDetails.jsx:48
+msgid "Last Login"
+msgstr "Last Login"
+
+#: src/components/Header/Header.jsx:270
+msgid "Last Login:"
+msgstr "Last Login:"
+
+#: src/srq/components/CorporateCustomerCaptureDummy/OrgCustomerDetails/PrimaryContact.jsx:220
+#: src/srq/components/CorporateCustomerCaptureDummy/OrgCustomerDetails/PrimaryContact.jsx:228
+#: src/srq/components/CorporateCustomerCaptureDummy/OrgCustomerDetails/ProfileOwnerDetails.jsx:220
+#: src/srq/components/CorporateCustomerCaptureDummy/OrgCustomerDetails/ProfileOwnerDetails.jsx:228
+msgid "Last Name"
+msgstr "Last Name"
+
+#: src/components/Product/AccountView/AccountManager.jsx:209
+msgid "Last Name is required"
+msgstr ""
+
+#: src/components/Dashboard/Component/BillsSummary.jsx:58
+msgid "Last Payment Details"
+msgstr "Last Payment Details"
+
+#: src/components/Header/LinkUserModal.jsx:31
+#: src/srq/components/CorporateCustomerCapture/ManageHierarchy/AddAccount/AddAccount.jsx:61
+msgid "Last name is required"
+msgstr ""
+
+#: src/components/Header/LinkUserModal.jsx:133
+msgid "Link User"
+msgstr ""
+
+#: src/components/Product/OrgVasDetails/VasRootElement.jsx:286
+msgid "Load more"
+msgstr "Load more"
+
+#: src/components/Common/XtraTime.jsx:163
+msgid "Loans And savings"
+msgstr ""
+
+#: src/srq/components/CorporateCustomerCapture/components/UserInfo.jsx:51
+msgid "Location"
+msgstr ""
+
+#: src/components/LoginPage/LoginPage.jsx:330
+msgid "Login to Selfcare"
+msgstr "Login to Selfcare"
+
+#: src/components/Product/Product.jsx:72
+msgid "Loyality Points"
+msgstr ""
+
+#: src/components/Dashboard/AccountManagerDashboard.jsx:96
+msgid "Loyalty Points"
+msgstr "Loyalty Points"
+
+#: src/components/Common/LoyaltyBalance.jsx:219
+msgid "Loyalty points"
+msgstr ""
+
+#: src/srq/components/CorporateCustomerCapture/KeyAccountManager.jsx:58
+msgid "MOBILE"
+msgstr ""
+
+#: src/components/Header/LinkUserModal.jsx:193
+#: src/srq/components/CorporateCustomerCapture/ProfileOwnerDetails.jsx:72
+msgid "MOBILE NUMBER"
+msgstr ""
+
+#: src/srq/components/SelfRegistrationCapture/components/Contact.jsx:100
+msgid "MOBILE NUMBER<0>*</0>"
+msgstr ""
+
+#: src/srq/components/CorporateCustomerCapture/ManageHierarchy/ManageHierarchy.jsx:227
+msgid "Manage Hierarchy"
+msgstr ""
+
+#: src/srq/components/ProductConfiguration/SpecificationCharacteristic/SpecificationCharacteristic.jsx:430
+msgid "Manual"
+msgstr ""
+
+#: src/common/utils/validationUtil.jsx:13
+#: src/components/FirstPage/Component/AvailabilityCheck.jsx:378
+#: src/components/FirstPage/Component/AvailabilityCheck.jsx:384
+#: src/components/Product/AccountView/AccountManager.jsx:205
+#: src/components/Product/AccountView/AccountManager.jsx:208
+#: src/components/Product/AccountView/AccountManager.jsx:213
+#: src/components/Product/AccountView/AccountManager.jsx:216
+#: src/components/Product/AccountView/Info.jsx:38
+#: src/components/Product/OrgCustomerDetails/PrimaryContact.jsx:554
+#: src/components/Product/OrgCustomerDetails/PrimaryContact.jsx:558
+#: src/components/Product/OrgCustomerDetails/PrimaryContact.jsx:569
+#: src/components/Product/OrgCustomerDetails/PrimaryContact.jsx:574
+#: src/components/Product/OrgCustomerDetails/ProfileOwnerDetails.jsx:434
+#: src/components/Product/OrgCustomerDetails/ProfileOwnerDetails.jsx:438
+#: src/components/Product/Payments/PaymentCapture/card.jsx:223
+#: src/srq/common/SrqInformation/SrqInformation.jsx:55
+#: src/srq/components/CorporateCustomerCapture/ManageHierarchy/AddAccount/AddAccount.jsx:69
+#: src/srq/components/CorporateCustomerCapture/ManageHierarchy/AddAccount/AddAccount.jsx:75
+#: src/srq/components/CorporateCustomerCapture/ManageHierarchy/AddAccount/AddAccount.jsx:85
+#: src/srq/components/CorporateCustomerCapture/ManageHierarchy/AddAccount/AddAccount.jsx:91
+#: src/srq/components/CorporateCustomerCapture/ValidationSchema.jsx:27
+#: src/srq/components/CorporateCustomerCapture/ValidationSchema.jsx:37
+#: src/srq/components/CorporateCustomerCapture/ValidationSchema.jsx:62
+#: src/srq/components/CorporateCustomerCapture/ValidationSchema.jsx:84
+#: src/srq/components/CorporateCustomerCapture/ValidationSchema.jsx:91
+#: src/srq/components/CorporateCustomerCapture/ValidationSchema.jsx:100
+#: src/srq/components/CorporateCustomerCapture/ValidationSchema.jsx:106
+#: src/srq/components/CorporateCustomerCapture/ValidationSchema.jsx:120
+#: src/srq/components/CorporateCustomerCapture/ValidationSchema.jsx:127
+#: src/srq/components/CorporateCustomerCapture/ValidationSchema.jsx:136
+#: src/srq/components/CorporateCustomerCapture/ValidationSchema.jsx:142
+#: src/srq/components/PaymentCapture/card.jsx:230
+#: src/srq/components/PaymentCapture/cheque.jsx:282
+#: src/srq/components/SelfRegistrationCapture/schemaProps.js:74
+#: src/srq/components/SelfRegistrationCapture/schemaProps.js:80
+#: src/srq/components/SelfRegistrationCapture/schemaProps.js:86
+#: src/srq/components/SelfRegistrationCapture/schemaProps.js:107
+#: src/srq/components/SelfRegistrationCapture/schemaProps.js:114
+#: src/srq/components/SelfRegistrationCapture/schemaProps.js:123
+#: src/srq/components/SelfRegistrationCapture/schemaProps.js:129
+msgid "Maximum limit exceeded"
+msgstr "Maximum limit exceeded"
+
+#: src/common/components/OfferDetails/OfferDetails.jsx:362
+msgid "Minimum Term Contract"
+msgstr ""
+
+#: src/srq/components/PaymentCapture/MobilePayment.jsx:32
+msgid "Mobile"
+msgstr ""
+
+#: src/components/Product/OrderHistory/Update/Update.jsx:658
+#: src/srq/components/CorporateCustomerCapture/components/UserInfo.jsx:43
+#: src/srq/components/CorporateCustomerCaptureDummy/OrgCustomerDetails/PrimaryContact.jsx:244
+#: src/srq/components/CorporateCustomerCaptureDummy/OrgCustomerDetails/PrimaryContact.jsx:252
+#: src/srq/components/CorporateCustomerCaptureDummy/OrgCustomerDetails/ProfileOwnerDetails.jsx:244
+#: src/srq/components/CorporateCustomerCaptureDummy/OrgCustomerDetails/ProfileOwnerDetails.jsx:252
+msgid "Mobile Number"
+msgstr "Mobile Number"
+
+#: src/components/Product/OrgCustomerDetails/PrimaryContact.jsx:560
+#: src/components/Product/OrgCustomerDetails/ProfileOwnerDetails.jsx:440
+msgid "Mobile Number is not valid"
+msgstr ""
+
+#: src/components/Header/LinkUserModal.jsx:33
+msgid "Mobile Number is required"
+msgstr ""
+
+#: src/srq/components/PaymentCapture/PaymentMethods.jsx:104
+msgid "Mobile Payment"
+msgstr ""
+
+#: src/srq/components/CorporateCustomerCapture/ManageHierarchy/AddAccount/AddAccount.jsx:65
+#: src/srq/components/CorporateCustomerCapture/ValidationSchema.jsx:96
+#: src/srq/components/CorporateCustomerCapture/ValidationSchema.jsx:132
+#: src/srq/components/SelfRegistrationCapture/schemaProps.js:119
+msgid "Mobile is not valid"
+msgstr ""
+
+#: src/components/Product/OrderHistory/RightSidePane.jsx:426
+msgid "Modified Preferred Language"
+msgstr "Modified Preferred Language"
+
+#: src/components/Product/HeaderWithFilter/index.jsx:8
+#: src/components/Product/HeaderWithFilter/index.jsx:12
+msgid "Modify"
+msgstr "Modify"
+
+#: src/components/Product/OrgVasDetails/SubscriptionVasDetails.jsx:356
+#: src/components/Product/OrgVasDetails/SubscriptionVasDetails.jsx:366
+msgid "Monthly Charge"
+msgstr "Monthly Charge"
+
+#: src/components/Product/AddVas/VasConfig.jsx:246
+#: src/components/Product/AddVas/VasDetails.jsx:177
+#: src/components/Product/ChangeOfPlanSR/PlanConfig.jsx:272
+msgid "Monthly Installment"
+msgstr ""
+
+#: src/srq/components/CorporateCustomerCapture/KeyAccountManager.jsx:47
+#: src/srq/components/CorporateCustomerCapture/ProfileOwnerDetails.jsx:48
+msgid "NAME"
+msgstr ""
+
+#: src/srq/components/SelfRegistrationCapture/components/Contact.jsx:66
+msgid "NAME<0>*</0>"
+msgstr ""
+
+#: src/components/Header/LinkUserModal.jsx:152
+msgid "NATIONAL IDENTIFICATION NUMBER"
+msgstr ""
+
+#: src/components/Product/Documents/DocCards.jsx:137
+msgid "NO. OF DOCUMENTS"
+msgstr "NO. OF DOCUMENTS"
+
+#: src/components/Product/OrgVasDetails/SubscriptionVasDetails.jsx:353
+#: src/components/Product/OrgVasDetails/SubscriptionVasDetails.jsx:363
+#: src/components/Product/Profile/CustomerDetails/CustomerDetails.jsx:31
+#: src/srq/components/CorporateCustomerCaptureDummy/OrgCustomerDetails/PrimaryContact.jsx:195
+#: src/srq/components/CorporateCustomerCaptureDummy/OrgCustomerDetails/PrimaryContact.jsx:203
+#: src/srq/components/CorporateCustomerCaptureDummy/OrgCustomerDetails/ProfileOwnerDetails.jsx:196
+#: src/srq/components/CorporateCustomerCaptureDummy/OrgCustomerDetails/ProfileOwnerDetails.jsx:204
+msgid "Name"
+msgstr "Name"
+
+#: src/components/Header/LinkUserModal.jsx:29
+msgid "National Identification Number is required"
+msgstr ""
+
+#: src/components/IndHomePage/IndHomePage.jsx:111
+#: src/components/IndHomePage/IndHomePage.jsx:149
+#: src/components/IndHomePage/IndHomePage.jsx:193
+#: src/components/OrgHomePage/OrgHomePage.jsx:118
+#: src/components/OrgHomePage/OrgHomePage.jsx:156
+#: src/components/OrgHomePage/OrgHomePage.jsx:200
+#: src/components/Product/Product.jsx:78
+#: src/components/ServiceCard/ServiceCard.jsx:65
+msgid "Need Help"
+msgstr "NEED HELP"
+
+#: src/components/Product/Requests/QuickReport.jsx:130
+msgid "Need further help?"
+msgstr "Need further help?"
+
+#: src/components/Product/Payments/PaymentCapture/PaymentMethods.jsx:103
+msgid "Net Banking"
+msgstr "Net Banking"
+
+#: src/components/Product/Profile/ChangePassword/ChangePassword.jsx:101
+msgid "New Password"
+msgstr "New Password"
+
+#: src/wizard/components/RequestCart/OverrideInputCard.jsx:105
+msgid "New Price"
+msgstr ""
+
+#: src/components/Product/OrderHistory/RightSidePane.jsx:386
+msgid "New plan name"
+msgstr "New plan name"
+
+#: src/components/Product/OrderHistory/RightSidePane.jsx:396
+msgid "New service class"
+msgstr "New service class"
+
+#: src/components/Product/OrderHistory/RightSidePane.jsx:390
+msgid "New total amount"
+msgstr "New total amount"
+
+#: src/components/LoginPage/ForgotPassword/UserNameStep.jsx:54
+#: src/components/LoginPage/SignUp/UserNameStep.jsx:180
+msgid "Next"
+msgstr "Next"
+
+#: src/components/Product/OrderHistory/Update/Update.jsx:312
+#: src/components/Product/OrderHistory/Update/Update.jsx:334
+#: src/srq/common/Header/Header.jsx:83
+msgid "No"
+msgstr "No"
+
+#: src/common/components/Table/Table.jsx:626
+#: src/components/Product/AddVas/VasCards.jsx:230
+#: src/components/Product/ChangeOfPlanSR/PlanCards.jsx:250
+#: src/components/Product/NoDataComponent/NoDataComponent.jsx:13
+msgid "No Data Found"
+msgstr "No Data Found"
+
+#: src/components/Product/Documents/Documents.jsx:133
+msgid "No Documents Found"
+msgstr "No Documents Found"
+
+#: src/components/Product/DocumentsUpload/DocumentsUpload.jsx:96
+msgid "No Documents Uploaded"
+msgstr ""
+
+#: src/wizard/components/RequestCart/RequestCart.jsx:288
+#: src/wizard/components/RequestCart/RequestCartOld.jsx:451
+msgid "No Items in cart"
+msgstr ""
+
+#: src/common/components/DocumentField/DocumentPreview.jsx:46
+#: src/common/components/DocumentField/NewDocPreview.jsx:47
+msgid "No Preview available"
+msgstr ""
+
+#: src/srq/common/AccountSelection/AccountSelection.jsx:264
+msgid "No data found"
+msgstr ""
+
+#: src/common/components/NoDataFound/NoDataFound.jsx:37
+#: src/common/request/ServiceDetails.jsx:164
+#: src/components/Dashboard/Component/InteractionTable/InteractionTable.jsx:842
+msgid "No information available"
+msgstr "No information available"
+
+#: src/srq/components/CorporateCustomerCapture/ManageHierarchy/Product/Product.jsx:206
+msgid "No products"
+msgstr ""
+
+#: src/components/LeftNav/LeftNav.jsx:120
+#: src/components/OrgLeftNav/OrgLeftNav.jsx:406
+msgid "Non GSM"
+msgstr "Non GSM"
+
+#: src/srq/common/Account/AccountCard.jsx:135
+#: src/srq/common/AccountSelection/AccountSelection.jsx:201
+msgid "Not this account"
+msgstr ""
+
+#: src/srq/common/Account/Account.jsx:205
+msgid "Not this offering ?"
+msgstr ""
+
+#: src/components/Product/OrderHistory/sections/ServiceDetails.jsx:241
+#: src/srq/common/SrqInformation/SrqInformation.jsx:237
+msgid "Notes"
+msgstr ""
+
+#: src/components/Product/OrderHistory/sections/DocumentSection.jsx:38
+msgid "Number"
+msgstr ""
+
+#: src/srq/components/CorporateCustomerCapture/ManageHierarchy/AddAccount/AddAccount.jsx:97
+#: src/srq/components/CorporateCustomerCapture/ValidationSchema.jsx:68
+msgid "Numbers Only"
+msgstr ""
+
+#: src/components/Product/OrderHistory/sections/ServiceDetails.jsx:517
+msgid "OPEN"
+msgstr ""
+
+#: src/components/Common/OttStatus.jsx:184
+msgid "ORDER DATE"
+msgstr ""
+
+#: src/components/Product/OrderHistory/sections/ServiceDetails.jsx:362
+msgid "ORDER ID"
+msgstr "ORDER ID"
+
+#: src/components/Common/OttStatus.jsx:133
+msgid "OTT Status"
+msgstr ""
+
+#: src/components/Common/XtraTime.jsx:190
+msgid "OUTSTANDING FEE"
+msgstr ""
+
+#: src/common/components/ProductSection/ProductSection.jsx:416
+msgid "Offering Details"
+msgstr ""
+
+#: src/components/Product/OrderHistory/RightSidePane.jsx:410
+msgid "Old SIM Number"
+msgstr "Old SIM Number"
+
+#: src/components/Product/OrderHistory/RightSidePane.jsx:420
+msgid "Old Service ID"
+msgstr "Old Service ID"
+
+#: src/components/Product/OrderHistory/RightSidePane.jsx:378
+msgid "Old plan name"
+msgstr "Old plan name"
+
+#: src/components/Product/OrderHistory/RightSidePane.jsx:382
+msgid "Old total amount"
+msgstr "Old total amount"
+
+#: src/components/Product/OrgVasDetails/SubscriptionVasDetails.jsx:357
+#: src/components/Product/OrgVasDetails/SubscriptionVasDetails.jsx:367
+msgid "One Time Charge"
+msgstr "One Time Charge"
+
+#: src/components/Product/OrgVasDetails/Card.jsx:245
+#: src/components/Product/OrgVasDetails/Card.jsx:569
+#: src/components/Product/OrgVasDetails/RemoveModal.jsx:342
+msgid "One time charge"
+msgstr "One time charge"
+
+#: src/components/Dashboard/AccountManagerDashboard.jsx:129
+#: src/components/Dashboard/AccountManagerDashboard.jsx:286
+msgid "Ongoing Orders"
+msgstr "Ongoing Orders"
+
+#: src/common/components/DocumentField/DocumentField.jsx:130
+msgid "Only PDF, XLS, DOC, TXT, PNG and JPEG formats are accepted."
+msgstr ""
+
+#: src/components/Dashboard/AccountManagerDashboard.jsx:130
+#: src/components/Dashboard/AccountManagerDashboard.jsx:287
+msgid "Open Tickets"
+msgstr "Open Tickets"
+
+#: src/components/Product/OrgCustomerDetails/PrimaryContact.jsx:450
+msgid "Optional Details"
+msgstr ""
+
+#: src/common/components/DocumentField/DocumentField.jsx:292
+msgid "Or"
+msgstr ""
+
+#: src/components/IndHomePage/IndHomePage.jsx:81
+#: src/components/IndHomePage/IndHomePage.jsx:119
+#: src/components/IndHomePage/IndHomePage.jsx:163
+#: src/components/OrgHomePage/OrgHomePage.jsx:93
+#: src/components/OrgHomePage/OrgHomePage.jsx:126
+#: src/components/OrgHomePage/OrgHomePage.jsx:170
+#: src/components/ServiceCard/ServiceCard.jsx:35
+msgid "Order History"
+msgstr "ORDER HISTORY"
+
+#: src/components/Product/AddVas/VasModal.jsx:37
+#: src/wizard/components/Confirmation/Confirmation.jsx:228
+msgid "Order Submitted Successfully"
+msgstr ""
+
+#: src/srq/components/CorporateCustomerCapture/components/UserInfo.jsx:31
+msgid "Other Information"
+msgstr ""
+
+#: src/wizard/components/RequestCart/RequestCartOld.jsx:562
+msgid "Override Approval"
+msgstr ""
+
+#: src/wizard/components/RequestCart/CartFooter.jsx:65
+msgid "Override Charges"
+msgstr ""
+
+#: src/components/IndHomePage/IndHomePage.jsx:157
+#: src/components/OrgHomePage/OrgHomePage.jsx:164
+msgid "Overview"
+msgstr ""
+
+#: src/srq/components/CorporateCustomerCapture/ManageHierarchy/AddAccount/AddAccount.jsx:58
+msgid "Owner name is required"
+msgstr ""
+
+#: src/common/request/PaymentDetails.jsx:106
+msgid "PAID AMOUNT (tax incl.)"
+msgstr "PAID AMOUNT (tax incl.)"
+
+#: src/components/Dashboard/Component/BillsSummary.jsx:71
+msgid "PAID ON"
+msgstr "PAID ON"
+
+#: src/wizard/components/RequestCart/RequestCartOld.jsx:463
+#: src/wizard/components/RequestCart/RequestCartOld.jsx:796
+msgid "PAYMENT DETAILS"
+msgstr ""
+
+#: src/components/Product/Payments/Payments.jsx:83
+msgid "PAYMENTS"
+msgstr ""
+
+#: src/common/components/ProductSection/InstallationAddress.jsx:98
+#: src/components/Product/OrderHistory/sections/ServiceDetails.jsx:101
+msgid "POSTAL CODE"
+msgstr "POSTAL CODE"
+
+#: src/common/components/ProductSection/ProductSection.jsx:185
+msgid "PUK Details"
+msgstr ""
+
+#: src/common/request/PaymentDetails.jsx:279
+msgid "Paid Amount"
+msgstr "Paid Amount"
+
+#: src/components/Product/Payments/Payments.jsx:62
+msgid "Paid Bills"
+msgstr "Paid Bills"
+
+#: src/components/Product/Profile/ChangePassword/ChangePassword.jsx:48
+#: src/components/Product/Profile/Profile.jsx:181
+msgid "Password"
+msgstr "Password"
+
+#: src/common/components/CardComponent/CardComponent.jsx:397
+msgid "Pattern required for field doesn't match"
+msgstr ""
+
+#: src/components/Dashboard/Component/BillsSummary.jsx:159
+msgid "Pay Now"
+msgstr "Pay Now"
+
+#: src/components/Product/Payments/PaymentCapture/AddToInvoice.jsx:26
+#: src/srq/components/PaymentCapture/AddToInvoice.jsx:28
+msgid "Pay in invoice"
+msgstr "Pay in invoice"
+
+#: src/components/BusinessDevice/BusinessDevice.jsx:70
+#: src/components/Product/Home/Home.jsx:279
+msgid "Payment"
+msgstr "Payment"
+
+#: src/common/request/PaymentDetails.jsx:228
+msgid "Payment Details"
+msgstr "Payment Details"
+
+#: src/components/Product/Payments/Payments.jsx:63
+msgid "Payment History"
+msgstr "Payment History"
+
+#: src/common/request/PaymentDetails.jsx:243
+msgid "Payment Mode"
+msgstr "Payment Mode"
+
+#: src/components/Product/Payments/PaymentCapture/PaymentCapture.jsx:555
+#: src/srq/components/PaymentCapture/PaymentCapture.jsx:420
+msgid "Payment Options"
+msgstr ""
+
+#: src/components/Dashboard/Component/InteractionTable/InteractionTable.jsx:1080
+msgid "Payments"
+msgstr "Payments"
+
+#: src/wizard/components/RequestCart/OverrideSummary.jsx:131
+#: src/wizard/components/RequestCart/RequestCartOld.jsx:564
+msgid "Pending"
+msgstr ""
+
+#: src/components/Product/OrderHistory/SubscriptionDetailsSection.jsx:315
+msgid "Pending for Provisioning"
+msgstr "Pending for Provisioning"
+
+#: src/wizard/components/RequestCart/OverrideInputCard.jsx:77
+msgid "Percentage"
+msgstr ""
+
+#: src/components/Product/OrderHistory/sections/BillingDetails.jsx:103
+msgid "Periodicity"
+msgstr ""
+
+#: src/components/Dashboard/AccountManagerDashboard.jsx:402
+msgid "Personalised offers for customer"
+msgstr "Personalised offers for customer"
+
+#: src/components/Product/OrderHistory/sections/ContactInfo.jsx:183
+msgid "Phone"
+msgstr "Phone"
+
+#: src/srq/components/ProductConfiguration/SimpleProductOffering/SimpleProductOffering.jsx:430
+msgid "Place"
+msgstr ""
+
+#: src/common/components/DocumentField/DocumentInfo.jsx:86
+msgid "Place of Issue"
+msgstr ""
+
+#: src/common/components/DocumentField/DocumentInfo.jsx:182
+#: src/components/Product/Documents/DocCards.jsx:44
+#: src/components/Product/OrderHistory/sections/DocumentSection.jsx:41
+msgid "Place of issue"
+msgstr "Place of issue"
+
+#: src/components/Dashboard/Component/InteractionTable/InteractionTable.jsx:677
+msgid "Please add a reason"
+msgstr ""
+
+#: src/srq/components/CorporateCustomerCapture/ManageHierarchy/AddAccount/AddAccount.jsx:76
+msgid "Please enter a valid email id"
+msgstr ""
+
+#: src/srq/components/CorporateCustomerCapture/ManageHierarchy/AddAccount/AddAccount.jsx:71
+msgid "Please enter a valid mobile"
+msgstr ""
+
+#: src/components/FirstPage/Component/AvailabilityCheck.jsx:387
+msgid "Please enter email address or mobile number."
+msgstr ""
+
+#: src/components/FirstPage/Component/AvailabilityCheck.jsx:381
+msgid "Please enter your company registration number."
+msgstr ""
+
+#: src/components/Product/AccountView/AccountView.jsx:160
+#: src/components/Product/AccountView/Info.jsx:626
+msgid "Please modify any data or do cancel"
+msgstr "Please modify any data or do cancel"
+
+#: src/common/components/CustomSelect.jsx:36
+msgid "Please select"
+msgstr "Please select"
+
+#: src/srq/components/CorporateCustomerCapture/ValidationSchema.jsx:111
+#: src/srq/components/CorporateCustomerCapture/ValidationSchema.jsx:147
+#: src/srq/components/SelfRegistrationCapture/schemaProps.js:134
+msgid "Please select atleast one contact medium"
+msgstr ""
+
+#: src/components/Common/LoyaltyBalance.jsx:307
+msgid "Points"
+msgstr ""
+
+#: src/components/Common/LoyaltyBalance.jsx:369
+msgid "Points Earned"
+msgstr ""
+
+#: src/components/Common/LoyaltyBalance.jsx:244
+msgid "Points used"
+msgstr ""
+
+#: src/components/Product/OrderHistory/sections/ContactInfo.jsx:172
+msgid "Post"
+msgstr "Post"
+
+#: src/components/Address/AddressWrapper.jsx:292
+#: src/components/Address/AddressWrapper.jsx:441
+#: src/components/Address/AddressWrapper.jsx:443
+msgid "Postal Address Format"
+msgstr "Postal Address Format"
+
+#: src/components/Product/OrderHistory/Update/Update.jsx:654
+#: src/components/Product/OrderHistory/sections/BillingDetails.jsx:160
+#: src/components/Product/OrderHistory/sections/ContactInfo.jsx:134
+msgid "Postal Code"
+msgstr "Postal Code"
+
+#: src/common/components/PreCondition/PreCondition.jsx:26
+msgid "Precondition goes here if any"
+msgstr ""
+
+#: src/srq/components/PaymentCapture/cash.jsx:60
+msgid "Preferred Currency"
+msgstr ""
+
+#: src/components/Product/OrderHistory/Update/Update.jsx:109
+#: src/components/Product/OrgCustomerDetails/PrimaryContact.jsx:53
+#: src/srq/components/CorporateCustomerCaptureDummy/OrgCustomerDetails/PrimaryContact.jsx:36
+#: src/srq/components/CorporateCustomerCaptureDummy/OrgCustomerDetails/PrimaryContact.jsx:133
+msgid "Primary Contact"
+msgstr "Primary Contact"
+
+#: src/components/Header/LinkUserModal.jsx:234
+#: src/components/LoginPage/ForgotPassword/ChangePasswordStep.jsx:121
+#: src/components/LoginPage/SignUp/EnrollFieldsStep.jsx:203
+msgid "Proceed"
+msgstr "Proceed"
+
+#: src/components/Product/ChangeOfPlanSR/PlanConfig.jsx:212
+msgid "Product Configuration"
+msgstr ""
+
+#: src/common/components/OfferDetails/OfferDetails.jsx:270
+msgid "Product Name"
+msgstr ""
+
+#: src/components/Dashboard/Component/InteractionTable/InteractionToolBar.jsx:12
+msgid "Product Order ID"
+msgstr ""
+
+#: src/components/Product/ChangeOfPlanSR/ChangeOfPlan.jsx:315
+msgid "Product Selection failed, please try again!"
+msgstr ""
+
+#: src/components/Product/OrderHistory/Update/Update.jsx:113
+#: src/components/Product/OrgCustomerDetails/ProfileOwnerDetails.jsx:29
+#: src/srq/components/CorporateCustomerCapture/CorporateCustomerCapture.jsx:58
+#: src/srq/components/CorporateCustomerCaptureDummy/OrgCustomerDetails/ProfileOwnerDetails.jsx:36
+#: src/srq/components/CorporateCustomerCaptureDummy/OrgCustomerDetails/ProfileOwnerDetails.jsx:134
+msgid "Profile Owner Details"
+msgstr "Profile Owner Details"
+
+#: src/srq/components/PaymentCapture/PaymentCapture.jsx:454
+msgid "Proforma Invoice"
+msgstr ""
+
+#: src/components/Product/OrderHistory/RightSidePane.jsx:364
+msgid "Promised Date"
+msgstr "Promised Date"
+
+#: src/components/BusinessDevice/BusinessDevice.jsx:64
+msgid "Purchase Non GSM Service"
+msgstr "Purchase Non GSM Service"
+
+#: src/components/Product/DeviceDetailsCard/DeviceDetailsCard.jsx:74
+#: src/components/Product/GprsDialogModal/GprsDialog.jsx:96
+msgid "Push Settings"
+msgstr ""
+
+#: src/components/Product/LoyalityPoints/LoyalityPoints.jsx:88
+msgid "REDEEMED"
+msgstr "REDEEMED"
+
+#: src/common/components/ProductSection/InstallationAddress.jsx:90
+#: src/components/Product/OrderHistory/sections/ServiceDetails.jsx:90
+#: src/srq/components/ProductConfiguration/MapContainer.jsx:188
+msgid "REGION"
+msgstr "REGION"
+
+#: src/srq/components/SelfRegistrationCapture/components/CompanyAddress.jsx:191
+msgid "REGION<0>*</0>"
+msgstr ""
+
+#: src/srq/components/SelfRegistrationCapture/components/CompanyDetails.jsx:120
+msgid "REGISTRATION NO<0>*</0>"
+msgstr ""
+
+#: src/components/Product/Payments/UnpaidBills/UnpaidBills.jsx:72
+msgid "REMAINING AMOUNT"
+msgstr "REMAINING AMOUNT"
+
+#: src/components/Dashboard/Component/InteractionTable/InteractionTable.jsx:948
+msgid "REQUEST ID"
+msgstr ""
+
+#: src/components/Dashboard/Component/InteractionTable/InteractionTable.jsx:953
+msgid "REQUEST TYPE"
+msgstr ""
+
+#: src/components/Address/AddressWrapper.jsx:283
+#: src/components/Address/AddressWrapper.jsx:431
+msgid "Radio Group"
+msgstr "Radio Group"
+
+#: src/components/Dashboard/AccountManagerDashboard.jsx:385
+#: src/components/Product/Requests/Requests.jsx:615
+msgid "Raise Ticket"
+msgstr "Raise Ticket"
+
+#: src/components/Product/OrderHistory/RightSidePane.jsx:170
+#: src/srq/common/SrqInformation/SrqInformation.jsx:200
+msgid "Reason"
+msgstr "Reason"
+
+#: src/components/Product/OrderHistory/OrderHistory.jsx:950
+msgid "Recent"
+msgstr "Recent"
+
+#: src/components/Product/LoyalityPoints/LoyalityPoints.jsx:70
+msgid "Reedemed 250"
+msgstr "Reedemed 250"
+
+#: src/components/Product/OrderHistory/sections/ServiceDetails.jsx:344
+msgid "Refresh"
+msgstr ""
+
+#: src/common/request/TimelineCard.jsx:205
+msgid "Reject"
+msgstr "Reject"
+
+#: src/common/request/TimelineCard.jsx:205
+#: src/wizard/components/RequestCart/OverrideSummary.jsx:134
+msgid "Rejected"
+msgstr "Rejected"
+
+#: src/components/Product/Payments/PaymentCapture/PaymentCapture.jsx:510
+#: src/srq/components/PaymentCapture/PaymentCapture.jsx:518
+msgid "Remaining Amount to Pay"
+msgstr "Remaining Amount to Pay"
+
+#: src/components/Product/OrgVasDetails/Card.jsx:298
+msgid "Remove"
+msgstr ""
+
+#: src/common/request/PaymentDetails.jsx:205
+msgid "Rental"
+msgstr "Rental"
+
+#: src/components/Product/AccountView/BilledAndUnbilledInfo.jsx:85
+msgid "Rental Amount"
+msgstr ""
+
+#: src/common/request/PaymentDetails.jsx:163
+#: src/components/Product/AddVas/VasConfig.jsx:235
+#: src/components/Product/AddVas/VasDetails.jsx:166
+#: src/components/Product/ChangeOfPlanSR/PlanConfig.jsx:261
+msgid "Rentals"
+msgstr "Rentals"
+
+#: src/components/Product/Documents/DocCards.jsx:45
+#: src/components/Product/OrderHistory/RequestCard.jsx:14
+#: src/components/Product/OrderHistory/SubscriptionDetailsSection.jsx:182
+msgid "Request ID"
+msgstr "Request ID"
+
+#: src/components/Product/AccountView/AccountView.jsx:184
+msgid "Request Posted Successfully"
+msgstr ""
+
+#: src/components/Product/PinPuk/pinpuk.jsx:148
+#: src/components/Product/SuspensionSR/Suspension.jsx:242
+msgid "Request Submit Successfully"
+msgstr ""
+
+#: src/components/FirstPage/Component/RegistrationWizard/RegistrationWizard.jsx:234
+#: src/components/Product/ChangeOfPlanSR/ChangeOfPlan.jsx:584
+msgid "Request Submitted Successfully"
+msgstr ""
+
+#: src/common/components/Filter/FilterComponent.jsx:83
+msgid "Request Type"
+msgstr "Request Type"
+
+#: src/components/BusinessDevice/BusinessDevice.jsx:40
+msgid "Request a Fixed Line"
+msgstr "Request a Fixed Line"
+
+#: src/components/BusinessDevice/BusinessDevice.jsx:31
+msgid "Request an LTE Router"
+msgstr "Request an LTE Router"
+
+#: src/components/Product/OrderHistory/RightSidePane.jsx:155
+msgid "Request date"
+msgstr "Request date"
+
+#: src/components/Product/Requests/Requests.jsx:623
+msgid "Request history"
+msgstr "Request history"
+
+#: src/components/Product/Product.jsx:66
+msgid "Requests"
+msgstr ""
+
+#: src/components/Product/OrgCustomerDetails/PrimaryContact.jsx:553
+#: src/components/Product/OrgCustomerDetails/PrimaryContact.jsx:557
+#: src/components/Product/OrgCustomerDetails/PrimaryContact.jsx:561
+#: src/components/Product/OrgCustomerDetails/PrimaryContact.jsx:570
+#: src/components/Product/OrgCustomerDetails/ProfileOwnerDetails.jsx:433
+#: src/components/Product/OrgCustomerDetails/ProfileOwnerDetails.jsx:437
+#: src/components/Product/OrgCustomerDetails/ProfileOwnerDetails.jsx:441
+#: src/srq/common/SrqInformation/SrqInformation.jsx:48
+#: src/srq/common/SrqInformation/SrqInformation.jsx:56
+#: src/srq/components/CorporateCustomerCapture/ValidationSchema.jsx:30
+#: src/srq/components/CorporateCustomerCapture/ValidationSchema.jsx:40
+#: src/srq/components/CorporateCustomerCapture/ValidationSchema.jsx:44
+#: src/srq/components/CorporateCustomerCapture/ValidationSchema.jsx:51
+#: src/srq/components/CorporateCustomerCapture/ValidationSchema.jsx:52
+#: src/srq/components/CorporateCustomerCapture/ValidationSchema.jsx:65
+#: src/srq/components/CorporateCustomerCapture/ValidationSchema.jsx:69
+#: src/srq/components/CorporateCustomerCapture/ValidationSchema.jsx:71
+#: src/srq/components/CorporateCustomerCapture/ValidationSchema.jsx:74
+#: src/srq/components/CorporateCustomerCapture/ValidationSchema.jsx:81
+#: src/srq/components/CorporateCustomerCapture/ValidationSchema.jsx:88
+#: src/srq/components/CorporateCustomerCapture/ValidationSchema.jsx:102
+#: src/srq/components/CorporateCustomerCapture/ValidationSchema.jsx:107
+#: src/srq/components/CorporateCustomerCapture/ValidationSchema.jsx:117
+#: src/srq/components/CorporateCustomerCapture/ValidationSchema.jsx:124
+#: src/srq/components/CorporateCustomerCapture/ValidationSchema.jsx:138
+#: src/srq/components/CorporateCustomerCapture/ValidationSchema.jsx:143
+#: src/srq/components/CorporateCustomerCapture/ValidationSchema.jsx:152
+#: src/srq/components/ProductConfiguration/SpecificationCharacteristic/SpecificationCharacteristic.jsx:128
+#: src/srq/components/SelfRegistrationCapture/schemaProps.js:77
+#: src/srq/components/SelfRegistrationCapture/schemaProps.js:83
+#: src/srq/components/SelfRegistrationCapture/schemaProps.js:89
+#: src/srq/components/SelfRegistrationCapture/schemaProps.js:93
+#: src/srq/components/SelfRegistrationCapture/schemaProps.js:104
+#: src/srq/components/SelfRegistrationCapture/schemaProps.js:111
+#: src/srq/components/SelfRegistrationCapture/schemaProps.js:125
+#: src/srq/components/SelfRegistrationCapture/schemaProps.js:130
+msgid "Required"
+msgstr ""
+
+#: src/components/Product/OrderHistory/SubscriptionDetailsSection.jsx:219
+msgid "Resubmit"
+msgstr "Resubmit"
+
+#: src/components/Product/OrderHistory/SubscriptionDetailsSection.jsx:208
+msgid "Resume"
+msgstr "Resume"
+
+#: src/components/Product/SuspensionSR/Suspension.jsx:96
+msgid "Revoke Suspension of Service"
+msgstr ""
+
+#: src/components/Product/OrderHistory/sections/CustomerDetailCard.jsx:49
+msgid "Risk Category"
+msgstr "Risk Category"
+
+#: src/components/Product/OrderHistory/sections/ChannelDetails.jsx:71
+msgid "Role"
+msgstr ""
+
+#: src/srq/common/AccountSelection/AccountSelection.jsx:271
+msgid "Rows per page"
+msgstr "Rows per page"
+
+#: src/components/Product/Payments/RechargeHistory/RechargeHistory.jsx:24
+msgid "SERIAL NUMBER"
+msgstr "SERIAL NUMBER"
+
+#: src/components/Product/OrderHistory/RightSidePane.jsx:402
+msgid "SIM Number"
+msgstr "SIM Number"
+
+#: src/components/Product/OrderHistory/RightSidePane.jsx:406
+msgid "SIM Type"
+msgstr "SIM Type"
+
+#: src/common/components/ProductSection/InstallationAddress.jsx:114
+msgid "SITE ABBREVIATION"
+msgstr "SITE ABBREVIATION"
+
+#: src/common/components/ProductSection/InstallationAddress.jsx:110
+msgid "SITE NAME"
+msgstr "SITE NAME"
+
+#: src/components/Product/OrderHistory/sections/ServiceDetails.jsx:416
+msgid "SLA"
+msgstr ""
+
+#: src/components/Product/OrderHistory/sections/ServiceDetails.jsx:429
+msgid "SLA VIOLATION"
+msgstr ""
+
+#: src/srq/components/CorporateCustomerCapture/ProfileOwnerDetails.jsx:109
+#: src/srq/components/SelfRegistrationCapture/components/Contact.jsx:159
+msgid "SMS"
+msgstr ""
+
+#: src/components/Product/OrgVasDetails/RemoveModal.jsx:360
+msgid "START DATE"
+msgstr ""
+
+#: src/components/Dashboard/Component/BillsSummary.jsx:114
+#: src/components/Dashboard/Component/InteractionTable/InteractionTable.jsx:968
+#: src/components/Product/OrderHistory/sections/ServiceDetails.jsx:484
+#: src/components/Product/Requests/Requests.jsx:141
+msgid "STATUS"
+msgstr "STATUS"
+
+#: src/srq/components/SelfRegistrationCapture/components/CompanyDetails.jsx:189
+msgid "SUB CATEGORY<0>*</0>"
+msgstr ""
+
+#: src/components/Product/OrgVasDetails/Card.jsx:624
+#: src/components/Product/OrgVasDetails/RemoveModal.jsx:410
+msgid "SUB-CATEGORY"
+msgstr "SUB-CATEGORY"
+
+#: src/common/components/CallTimer/CallTimerDialouge.jsx:138
+msgid "SUBMIT"
+msgstr ""
+
+#: src/components/Product/Requests/RequestForm.jsx:448
+msgid "SUMMARY"
+msgstr "SUMMARY"
+
+#: src/components/Product/Profile/AccountDeactivation/AccountDeactivation.jsx:186
+#: src/components/Product/Profile/ChangePassword/ChangePassword.jsx:157
+msgid "Save Changes"
+msgstr "Save Changes"
+
+#: src/common/components/SearchBarComponent/SearchBarComponent.jsx:147
+#: src/components/Dashboard/Component/InteractionTable/SearchBar.jsx:98
+msgid "Search By"
+msgstr ""
+
+#: src/components/Product/Requests/RequestForm.jsx:373
+msgid "Search Category"
+msgstr "Search Category"
+
+#: src/components/Product/Requests/Requests.jsx:634
+msgid "Search Ticket"
+msgstr "Search Ticket"
+
+#: src/srq/common/AccountSelection/AccountSelection.jsx:161
+msgid "Search for an Account"
+msgstr ""
+
+#: src/components/Product/Requests/QuickReport.jsx:103
+msgid "Search for answers to your queries"
+msgstr "Search for answers to your queries"
+
+#: src/common/components/ProductCard/ProductCard.jsx:105
+#: src/components/ProductCard/ProductCard.jsx:104
+#: src/srq/common/Account/AccountCard.jsx:127
+#: src/srq/common/AccountSelection/AccountSelection.jsx:244
+msgid "Select"
+msgstr ""
+
+#: src/srq/common/Account/Account.jsx:244
+#: src/srq/common/AccountSelection/AccountSelection.jsx:138
+msgid "Select Account"
+msgstr ""
+
+#: src/components/Product/AccountView/Info.jsx:115
+#: src/components/Product/AccountView/Info.jsx:126
+msgid "Select Address"
+msgstr ""
+
+#: src/components/Product/AccountView/Info.jsx:114
+#: src/srq/components/CorporateCustomerCapture/ManageHierarchy/AddAccount/AddAccount.jsx:79
+msgid "Select Address Format"
+msgstr "Select Address Format"
+
+#: src/srq/components/CorporateCustomerCapture/ManageHierarchy/AddAccount/AddAccount.jsx:81
+msgid "Select Address Line"
+msgstr "Select Address Line"
+
+#: src/components/Product/AccountView/Info.jsx:117
+#: src/srq/components/CorporateCustomerCapture/ManageHierarchy/AddAccount/AddAccount.jsx:93
+#: src/srq/components/CorporateCustomerCapture/ManageHierarchy/AddAccount/AddAccount.jsx:94
+#: src/srq/components/CorporateCustomerCapture/ValidationSchema.jsx:64
+#: src/srq/components/SelfRegistrationCapture/schemaProps.js:97
+msgid "Select City"
+msgstr "Select City"
+
+#: src/components/Product/AccountView/Info.jsx:120
+#: src/srq/components/CorporateCustomerCapture/ManageHierarchy/AddAccount/AddAccount.jsx:102
+#: src/srq/components/CorporateCustomerCapture/ManageHierarchy/AddAccount/AddAccount.jsx:103
+#: src/srq/components/CorporateCustomerCapture/ValidationSchema.jsx:73
+#: src/srq/components/SelfRegistrationCapture/schemaProps.js:99
+msgid "Select Country"
+msgstr "Select Country"
+
+#: src/srq/components/CorporateCustomerCapture/ManageHierarchy/AddAccount/AddAccount.jsx:54
+msgid "Select Currency"
+msgstr ""
+
+#: src/common/components/DocumentField/DocumentField.jsx:294
+msgid "Select File"
+msgstr ""
+
+#: src/components/Product/AccountView/Info.jsx:116
+#: src/srq/components/CorporateCustomerCapture/ManageHierarchy/AddAccount/AddAccount.jsx:87
+#: src/srq/components/CorporateCustomerCapture/ValidationSchema.jsx:58
+msgid "Select Landmark"
+msgstr "Select Landmark"
+
+#: src/components/Product/AccountView/Info.jsx:118
+#: src/srq/components/CorporateCustomerCapture/ManageHierarchy/AddAccount/AddAccount.jsx:96
+#: src/srq/components/CorporateCustomerCapture/ManageHierarchy/AddAccount/AddAccount.jsx:98
+#: src/srq/components/CorporateCustomerCapture/ValidationSchema.jsx:67
+msgid "Select Postal Code"
+msgstr "Select Postal Code"
+
+#: src/srq/components/CorporateCustomerCapture/ManageHierarchy/AddAccount/AddAccount.jsx:52
+msgid "Select Preferred Language"
+msgstr ""
+
+#: src/components/Product/AccountView/Info.jsx:119
+#: src/srq/components/CorporateCustomerCapture/ManageHierarchy/AddAccount/AddAccount.jsx:99
+#: src/srq/components/CorporateCustomerCapture/ManageHierarchy/AddAccount/AddAccount.jsx:100
+#: src/srq/components/CorporateCustomerCapture/ValidationSchema.jsx:70
+#: src/srq/components/SelfRegistrationCapture/schemaProps.js:98
+msgid "Select State"
+msgstr "Select State"
+
+#: src/srq/components/CorporateCustomerCapture/ValidationSchema.jsx:43
+#: src/srq/components/SelfRegistrationCapture/schemaProps.js:92
+msgid "Select Sub Category"
+msgstr ""
+
+#: src/components/LoginPage/SignUp/UserNameStep.jsx:95
+msgid "Select User Role"
+msgstr ""
+
+#: src/srq/components/CorporateCustomerCapture/ValidationSchema.jsx:39
+#: src/srq/components/SelfRegistrationCapture/schemaProps.js:88
+msgid "Select a Category"
+msgstr ""
+
+#: src/srq/components/CorporateCustomerCapture/ValidationSchema.jsx:151
+msgid "Select a manager"
+msgstr ""
+
+#: src/srq/components/PaymentCapture/cheque.jsx:284
+msgid "Select branch name"
+msgstr ""
+
+#: src/common/utils/validationUtil.jsx:20
+msgid "Select document expiry date"
+msgstr "Select document expiry date"
+
+#: src/common/utils/validationUtil.jsx:16
+msgid "Select document issue date"
+msgstr "Select document issue date"
+
+#: src/common/utils/validationUtil.jsx:7
+msgid "Select document type"
+msgstr "Select document type"
+
+#: src/srq/components/CorporateCustomerCapture/ManageHierarchy/ManageHierarchy.jsx:63
+msgid "Select offering and capture product details"
+msgstr ""
+
+#: src/srq/common/Subscriptions/Subscriptions.jsx:332
+msgid "Select subscription"
+msgstr ""
+
+#: src/components/Product/GprsDialogModal/GprsDialog.jsx:126
+msgid "Send"
+msgstr "Send"
+
+#: src/components/BusinessDevice/BusinessDevice.jsx:58
+#: src/components/Product/Home/Home.jsx:263
+msgid "Send Request"
+msgstr "Send Request"
+
+#: src/components/Product/Payments/RechargeHistory/RechargeHistory.jsx:38
+msgid "Serial Number"
+msgstr "Serial Number"
+
+#: src/components/Product/OrderHistory/RightSidePane.jsx:623
+#: src/srq/components/ProductConfiguration/SimpleProductOffering/SimpleProductOffering.jsx:62
+msgid "Service Details"
+msgstr "Service Details"
+
+#: src/common/request/ServiceDetails.jsx:133
+#: src/components/Product/OrderHistory/ServiceDetails.jsx:163
+#: src/components/Product/OrderHistory/sections/ServiceDetails.jsx:288
+msgid "Service ID"
+msgstr "Service ID"
+
+#: src/components/Product/Product.jsx:41
+msgid "Service Overview"
+msgstr ""
+
+#: src/common/components/ProductSection/ProductSection.jsx:325
+msgid "Service id"
+msgstr ""
+
+#: src/components/Product/OrgVasDetails/VasRootElement.jsx:286
+msgid "Show Less"
+msgstr "Show Less"
+
+#: src/components/Product/OrgCustomerDetails/PrimaryContact.jsx:533
+msgid "Show optional details"
+msgstr ""
+
+#: src/common/components/ProductSection/ProductSection.jsx:96
+msgid "Show PUK"
+msgstr ""
+
+#: src/components/LoginPage/LoginPage.jsx:479
+msgid "Sign-in"
+msgstr "Sign-in"
+
+#: src/components/LoginPage/SignUp/SignUp.jsx:85
+msgid "Sign-up"
+msgstr "Sign-up"
+
+#: src/components/LoginPage/LoginPage.jsx:335
+msgid "Simple, Secure & Convenient access to<0/>your account at your fingertips"
+msgstr "Simple, Secure & Convenient access to<0/>your account at your fingertips"
+
+#: src/srq/components/ProductConfiguration/SimpleProductOffering/SimpleProductOffering.jsx:131
+msgid "Something went wrong"
+msgstr ""
+
+#: src/common/components/DoNotHavePermissionComponent.jsx:26
+msgid "Sorry, you do not have permission to perform this task."
+msgstr ""
+
+#: src/common/request/ServiceDetails.jsx:91
+msgid "Stages"
+msgstr ""
+
+#: src/components/Product/OrgVasDetails/Card.jsx:252
+#: src/components/Product/OrgVasDetails/Card.jsx:584
+#: src/components/Product/OrgVasDetails/SubscriptionVasDetails.jsx:354
+#: src/components/Product/OrgVasDetails/SubscriptionVasDetails.jsx:364
+#: src/srq/common/SrqInformation/SrqInformation.jsx:158
+msgid "Start Date"
+msgstr "Start Date"
+
+#: src/components/Product/OrderHistory/Update/Update.jsx:656
+#: src/components/Product/OrderHistory/sections/ContactInfo.jsx:126
+msgid "State"
+msgstr "State"
+
+#: src/components/Product/OrderHistory/sections/BillingDetails.jsx:119
+msgid "Statement Applicable"
+msgstr ""
+
+#: src/common/components/Filter/FilterComponent.jsx:160
+#: src/components/Common/LoyaltyBalance.jsx:328
+#: src/components/Common/OttStatus.jsx:194
+#: src/components/Common/XtraTime.jsx:289
+#: src/components/Product/Documents/DocCards.jsx:47
+#: src/components/Product/OrderHistory/sections/DocumentSection.jsx:42
+#: src/components/Product/Profile/AccountDeactivation/AccountDeactivation.jsx:149
+msgid "Status"
+msgstr "Status"
+
+#: src/srq/components/CorporateCustomerCapture/ManageHierarchy/Organization.jsx:142
+msgid "Sub Account"
+msgstr ""
+
+#: src/components/Product/OrderHistory/sections/CustomerDetailCard.jsx:39
+#: src/components/Product/Requests/RequestForm.jsx:418
+msgid "Sub Category"
+msgstr "Sub Category"
+
+#: src/srq/components/CorporateCustomerCapture/ManageHierarchy/Organization.jsx:141
+msgid "Sub Profile"
+msgstr ""
+
+#: src/common/components/Modal/Modal.jsx:75
+#: src/components/Dialog/Dialog.jsx:71
+#: src/components/Product/Profile/AccountDeactivation/AccountDeactivation.jsx:245
+#: src/srq/components/CorporateCustomerCapture/ManageHierarchy/AddAccount/AddAccount.jsx:394
+#: src/srq/components/CorporateCustomerCapture/ManageHierarchy/AddSubProfile/AddSubProfile.jsx:286
+msgid "Submit"
+msgstr "Submit"
+
+#: src/wizard/components/RequestCart/CartFooter.jsx:91
+msgid "Submit Override"
+msgstr ""
+
+#: src/components/Product/Requests/Requests.jsx:558
+#: src/components/Product/Requests/Requests.jsx:559
+msgid "Submit a new request"
+msgstr "Submit a new request"
+
+#: src/components/Header/LinkUserModal.jsx:241
+msgid "Success!"
+msgstr ""
+
+#: src/components/Product/AddVas/VasCompares.jsx:173
+msgid "Summary"
+msgstr ""
+
+#: src/components/Product/NeedHelp/NeedHelp.jsx:186
+msgid "Support"
+msgstr "Support"
+
+#: src/components/Product/SuspensionSR/Suspension.jsx:95
+msgid "Suspension of Service"
+msgstr ""
+
+#: src/components/Product/OrderHistory/sections/ServiceDetails.jsx:384
+msgid "TASK NAME"
+msgstr ""
+
+#: src/components/Product/OrderHistory/sections/ServiceDetails.jsx:373
+msgid "TASK TYPE"
+msgstr ""
+
+#: src/components/Product/OrderHistory/sections/BillingDetails.jsx:95
+msgid "TAX Exempted"
+msgstr ""
+
+#: src/wizard/components/RequestCart/OverrideSummary.jsx:47
+msgid "THIS REQUIRE AN APPROVAL FROM YOUR MANAGER"
+msgstr ""
+
+#: src/common/components/CallTimer/CallTimerDialouge.jsx:129
+msgid "THIS SITE IS UNDER CONSTRUCTION!!"
+msgstr ""
+
+#: src/components/Product/Requests/Requests.jsx:125
+msgid "TICKET NUMBER"
+msgstr "TICKET NUMBER"
+
+#: src/components/Common/XtraTime.jsx:197
+msgid "TOTAL LOAN AMOUNT"
+msgstr ""
+
+#: src/components/Common/XtraTime.jsx:258
+msgid "TOTAL OUTSTANDING"
+msgstr ""
+
+#: src/common/components/ProductSection/InstallationAddress.jsx:94
+msgid "TOWN"
+msgstr "TOWN"
+
+#: src/srq/components/SelfRegistrationCapture/components/CompanyAddress.jsx:217
+msgid "TOWN<0>*</0>"
+msgstr ""
+
+#: src/components/Common/OttStatus.jsx:169
+#: src/components/Common/XtraTime.jsx:243
+msgid "TRANSACTION ID"
+msgstr ""
+
+#: src/components/Dashboard/Component/InteractionTable/InteractionTable.jsx:745
+msgid "Task rejected successfully."
+msgstr ""
+
+#: src/components/Dashboard/Component/InteractionTable/InteractionTable.jsx:762
+msgid "Task update was unsuccessful."
+msgstr "Task update was unsuccessful."
+
+#: src/components/Dashboard/Component/InteractionTable/InteractionTable.jsx:747
+msgid "Task was successfully approved."
+msgstr "Task was successfully approved."
+
+#: src/components/Dashboard/Component/InteractionTable/InteractionTable.jsx:928
+msgid "Tasks"
+msgstr "Tasks"
+
+#: src/components/Product/AddVas/VasCartDetails.jsx:114
+#: src/components/Product/AddVas/VasCartDetails.jsx:224
+#: src/wizard/components/RequestCart/CartList.jsx:134
+msgid "Tax"
+msgstr ""
+
+#: src/wizard/components/OverrideCharges/OverrideCharges.jsx:672
+msgid "Tax amount"
+msgstr ""
+
+#: src/srq/components/CorporateCustomerCapture/ProfileOwnerDetails.jsx:121
+#: src/srq/components/SelfRegistrationCapture/components/Contact.jsx:175
+msgid "Telegram"
+msgstr ""
+
+#: src/common/components/CardComponent/CardComponent.jsx:395
+msgid "This field is required"
+msgstr ""
+
+#: src/components/Common/LoyaltyBalance.jsx:68
+msgid "This service has not enrolled to loyalty points program"
+msgstr ""
+
+#: src/components/Product/Requests/Requests.jsx:561
+msgid "Ticket Details"
+msgstr "Ticket Details"
+
+#: src/components/Dashboard/TroubleTicket/Container.jsx:102
+#: src/components/Product/Requests/Requests.jsx:344
+msgid "Ticket Raised Successfully"
+msgstr "Ticket Raised Successfully"
+
+#: src/components/Dashboard/TroubleTicket/Container.jsx:96
+#: src/components/Product/Requests/Requests.jsx:335
+msgid "Ticket Submission Failed"
+msgstr "Ticket Submission Failed"
+
+#: src/components/IndHomePage/IndHomePage.jsx:105
+#: src/components/IndHomePage/IndHomePage.jsx:143
+#: src/components/IndHomePage/IndHomePage.jsx:187
+#: src/components/OrgHomePage/OrgHomePage.jsx:113
+#: src/components/OrgHomePage/OrgHomePage.jsx:150
+#: src/components/OrgHomePage/OrgHomePage.jsx:194
+#: src/components/ServiceCard/ServiceCard.jsx:59
+msgid "Tickets"
+msgstr "Tickets"
+
+#: src/common/components/Filter/FilterComponent.jsx:178
+msgid "To"
+msgstr "To"
+
+#: src/common/components/Filter/FilterComponent.jsx:57
+msgid "To-Date cannot be less than From-Date"
+msgstr ""
+
+#: src/components/Product/OrderHistory/RequestStatusCard/RequestStatusCard.jsx:244
+msgid "Today"
+msgstr "Today"
+
+#: src/components/Product/AddVas/VasCartDetails.jsx:119
+#: src/components/Product/AddVas/VasCartDetails.jsx:229
+#: src/wizard/components/RequestCart/CartList.jsx:139
+msgid "Total"
+msgstr ""
+
+#: src/srq/common/Account/Account.jsx:250
+#: src/srq/common/AccountSelection/AccountSelection.jsx:144
+msgid "Total Account"
+msgstr ""
+
+#: src/wizard/components/RequestCart/RequestCartOld.jsx:522
+msgid "Total First Invoice"
+msgstr ""
+
+#: src/components/Dashboard/Component/BillsSummary.jsx:100
+#: src/components/Product/AccountView/BilledAndUnbilledInfo.jsx:125
+msgid "Total Outstanding Amount"
+msgstr "Total Outstanding Amount"
+
+#: src/components/Product/AccountView/BilledAndUnbilledInfo.jsx:115
+msgid "Total Unbilled Amount"
+msgstr ""
+
+#: src/wizard/components/RequestCart/RequestCartOld.jsx:471
+#: src/wizard/components/RequestCart/RequestCartOld.jsx:808
+msgid "Total Upfront"
+msgstr ""
+
+#: src/common/components/OfferDetails/OfferDetails.jsx:287
+msgid "Total first Invoice"
+msgstr ""
+
+#: src/components/Common/LoyaltyBalance.jsx:67
+msgid "Total points available"
+msgstr ""
+
+#: src/srq/common/Subscriptions/Subscriptions.jsx:337
+msgid "Total subscription"
+msgstr ""
+
+#: src/components/Common/LoyaltyBalance.jsx:291
+msgid "Transaction Details"
+msgstr ""
+
+#: src/components/Common/LoyaltyBalance.jsx:296
+#: src/components/Common/LoyaltyBalance.jsx:358
+msgid "Transaction Id"
+msgstr ""
+
+#: src/components/Common/XtraTime.jsx:238
+msgid "Transaction Name"
+msgstr ""
+
+#: src/components/Common/LoyaltyBalance.jsx:262
+#: src/components/Common/OttStatus.jsx:146
+#: src/components/Common/XtraTime.jsx:216
+msgid "Transaction details"
+msgstr ""
+
+#: src/components/Product/OrderHistory/sections/DocumentSection.jsx:37
+msgid "Type"
+msgstr ""
+
+#: src/components/Dashboard/AccountManagerDashboard.jsx:128
+#: src/components/Dashboard/AccountManagerDashboard.jsx:285
+msgid "Unbilled Amount"
+msgstr "Unbilled Amount"
+
+#: src/components/Product/AccountView/BilledAndUnbilledInfo.jsx:110
+msgid "Unbilled Tax"
+msgstr ""
+
+#: src/components/Product/Payments/Payments.jsx:61
+msgid "Unpaid Bills"
+msgstr "Unpaid Bills"
+
+#: src/common/components/ProductCard/ProductCard.jsx:101
+#: src/components/ProductCard/ProductCard.jsx:100
+#: src/srq/common/Account/AccountCard.jsx:123
+#: src/srq/common/AccountSelection/AccountSelection.jsx:242
+msgid "Unselect"
+msgstr ""
+
+#: src/common/request/PaymentDetails.jsx:92
+#: src/components/Product/AddVas/VasConfig.jsx:220
+#: src/components/Product/AddVas/VasDetails.jsx:131
+#: src/components/Product/ChangeOfPlanSR/PlanConfig.jsx:246
+msgid "Upfront Charges"
+msgstr "Upfront Charges"
+
+#: src/srq/common/DocumentCapture/DocumentCapture.jsx:94
+msgid "Upload Documents"
+msgstr ""
+
+#: src/srq/common/DocumentCapture/DocumentCapture.jsx:94
+msgid "Uploaded Documents"
+msgstr ""
+
+#: src/wizard/components/RequestCart/OverrideInputCard.jsx:99
+msgid "Upto"
+msgstr ""
+
+#: src/srq/components/ProductConfiguration/SimpleProductOffering/SimpleProductOffering.jsx:63
+msgid "Usage & Allowances"
+msgstr ""
+
+#: src/components/Product/OrderHistory/sections/ChannelDetails.jsx:39
+msgid "User Details"
+msgstr ""
+
+#: src/components/IndHomePage/IndHomePage.jsx:175
+#: src/components/OrgHomePage/OrgHomePage.jsx:182
+#: src/components/Product/Product.jsx:53
+msgid "VAS Details"
+msgstr ""
+
+#: src/components/Product/OrderHistory/RightSidePane.jsx:372
+msgid "VAS name"
+msgstr "VAS name"
+
+#: src/srq/components/SelfRegistrationCapture/components/CompanyDetails.jsx:139
+msgid "VAT/TIN NUMBER<0>*</0>"
+msgstr ""
+
+#: src/components/Product/Profile/ChangePassword/ChangePassword.jsx:70
+msgid "Valid password is minimum 8 characters long. Passwords must use at least one: uppercase letter, lowercase letter, number and symbol(!@#$%&*)."
+msgstr "Valid password is minimum 8 characters long. Passwords must use at least one: uppercase letter, lowercase letter, number and symbol(!@#$%&*)."
+
+#: src/srq/components/CorporateCustomerCapture/ManageHierarchy/AddAccount/AddAccount.jsx:366
+#: src/srq/components/CorporateCustomerCapture/ManageHierarchy/AddSubProfile/AddSubProfile.jsx:229
+msgid "Validation: Incomplete form..!"
+msgstr ""
+
+#: src/components/LoginPage/ForgotPassword/OTPStep.jsx:144
+#: src/components/LoginPage/SignUp/OTPStep.jsx:146
+msgid "Verify"
+msgstr "Verify"
+
+#: src/common/request/TimelineCardList.jsx:160
+#: src/components/Product/DocumentsUpload/DocumentsUpload.jsx:123
+#: src/components/Product/LoyalityPoints/LoyalityPoints.jsx:74
+#: src/components/Product/OrgVasDetails/Card.jsx:279
+msgid "View"
+msgstr "View"
+
+#: src/components/Dashboard/Component/BillsSummary.jsx:153
+msgid "View Billing Details"
+msgstr "View Billing Details"
+
+#: src/components/Header/Header.jsx:240
+msgid "View Hierarchy"
+msgstr "View Hierarchy"
+
+#: src/common/components/CardComponent/CardComponent.jsx:601
+msgid "View optional details"
+msgstr "View optional details"
+
+#: src/srq/common/AccountSelection/AccountSelection.jsx:214
+#: src/srq/components/CorporateCustomerCapture/ManageHierarchy/ManageHierarchy.jsx:68
+#: src/srq/components/CorporateCustomerCapture/ManageHierarchy/ManageHierarchy.jsx:96
+msgid "View/Edit"
+msgstr ""
+
+#: src/common/components/CallTimer/CallTimerDialouge.jsx:103
+msgid "WRAP CALL"
+msgstr ""
+
+#: src/wizard/components/OverrideCharges/OverrideCharges.jsx:571
+msgid "Waive off charge"
+msgstr "Waive off charge"
+
+#: src/components/Dashboard/AccountManagerDashboard.jsx:85
+msgid "Wallet"
+msgstr "Wallet"
+
+#: src/components/Product/Profile/AccountDeactivation/AccountDeactivation.jsx:170
+msgid "Warning"
+msgstr "Warning"
+
+#: src/components/Product/NeedHelp/NeedHelp.jsx:293
+msgid "Watch"
+msgstr "Watch"
+
+#: src/components/LoginPage/ForgotPassword/OTPStep.jsx:114
+#: src/components/LoginPage/SignUp/OTPStep.jsx:116
+msgid "We have sent you the OTP to"
+msgstr "We have sent you the OTP to"
+
+#: src/components/FirstPage/Component/Header/Header.jsx:169
+msgid "Welcome"
+msgstr ""
+
+#: src/components/Product/NeedHelp/NeedHelp.jsx:184
+msgid "Welcome To"
+msgstr ""
+
+#: src/common/components/CallTimer/CallTimerDialouge.jsx:110
+msgid "What was queried on Home Page?"
+msgstr ""
+
+#: src/srq/components/CorporateCustomerCapture/ProfileOwnerDetails.jsx:115
+#: src/srq/components/SelfRegistrationCapture/components/Contact.jsx:167
+msgid "Whatsapp"
+msgstr ""
+
+#: src/components/Product/OrderHistory/sections/CustomerDetailCard.jsx:57
+msgid "X Directory"
+msgstr "X Directory"
+
+#: src/wizard/components/RequestCart/OverrideSummary.jsx:41
+msgid "YOUR APPROVAL HAS BEEN REJECTED, ALL THE PRICE HAS BEEN RESET TO LIST PRICE"
+msgstr ""
+
+#: src/components/Product/OrderHistory/Update/Update.jsx:310
+#: src/components/Product/OrderHistory/Update/Update.jsx:334
+#: src/srq/common/Header/Header.jsx:84
+msgid "Yes"
+msgstr "Yes"
+
+#: src/srq/common/Header/Header.jsx:78
+msgid "You will be redirected to the home screen. You can find your partial request from the Request Section. Proceed?"
+msgstr ""
+
+#: src/components/Product/AddVas/VasCartDetails.jsx:77
+msgid "Your Cart"
+msgstr ""
+
+#: src/components/LoginPage/LoginPage.jsx:310
+msgid "Your Digital Lifestyle Partner"
+msgstr ""
+
+#: src/components/Product/Profile/AccountDeactivation/AccountDeactivation.jsx:208
+msgid "Your account will be deactivated, are you sure you want to continue?"
+msgstr "Your account will be deactivated, are you sure you want to continue?"
+
+#: src/wizard/components/Footer/CartDetails.jsx:114
+msgid "Your cart"
+msgstr ""
+
+#: src/srq/common/Subscriptions/Subscriptions.jsx:189
+msgid "added to the cart"
+msgstr ""
+
+#: src/components/Product/DocumentsUpload/DocumentsUpload.jsx:110
+msgid "more documents uploaded."
+msgstr ""
+
+#: src/components/Product/OrderHistory/OrderHistory.jsx:1039
+msgid "records"
+msgstr "records"
+
+#: src/components/Common/InternetUsage.jsx:362
+#: src/components/Product/Usage/UsageModalComponent.jsx:229
+msgid "to"
+msgstr ""
+
+#: src/components/FirstPage/Component/Location.jsx:24
+msgid "to filter and show offers available in customer's location"
+msgstr ""
+
+#: src/components/Product/IndCustomerDetails/IndCustomerDetails.jsx:169
+#: src/components/Product/OrgCustomerDetails/OrgCustomerDetails.jsx:197
+#: src/srq/components/CorporateCustomerCaptureDummy/OrgCustomerDetails/OrgCustomerDetails.jsx:172
+msgid "updated Successfully"
+msgstr "updated Successfully"
+
+#: src/components/Product/OrderHistory/sections/BillingDetails.jsx:148
+#: src/components/Product/OrderHistory/sections/BillingDetails.jsx:152
+#: src/components/Product/OrderHistory/sections/ServiceDetails.jsx:97
+#: src/srq/components/PaymentCapture/PaymentCapture.jsx:440
+msgid "{0}"
+msgstr "{0}msgstr \"{0}"

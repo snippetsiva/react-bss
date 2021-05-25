@@ -1,0 +1,114 @@
+def IMAGE_TAG
+def IMAGE_NAME = "digital-mld/bss-cbs-app-upgrade-ui"
+def REGISTRY_URL = "https://dev-docker-registry.tecnotree.com"
+def REGISTRY_LOGIN = "dev-docker-registry-login"
+def DEV_BRANCH = 'develop'
+String commitId = ''
+
+pipeline {
+	agent {
+		node {
+			label 'nodejs-10-node'
+		}
+	}
+	stages {
+		stage('Build') {
+			steps {
+				gitlabCommitStatus(name: "Build") {
+				script {
+				if (env.BRANCH_NAME != null && env.BRANCH_NAME != '') {
+					branchName = env.BRANCH_NAME
+					// set gitLabConnection to push multibranch pipeline status to gitlab
+					properties([[$class: 'GitLabConnectionProperty', gitLabConnection: 'gitlab']])
+					echo "MultiBranch Pipeline ${env.BRANCH_NAME} : ${branchName}"
+			}
+
+			if (env.gitlabSourceBranch != null && env.gitlabSourceBranch != '') {
+					branchName = env.gitlabSourceBranch
+					echo "SingleBranch Pipeline ${env.gitlabSourceBranch} : ${branchName}"
+			}
+
+					IMAGE_TAG = """${sh(returnStdout: true,script: 'git describe').trim()}"""
+					imageLabel = '--label release-version=' + IMAGE_TAG + ' --label branch-name=' + branchName + ' --label commit-hash=' + commitId + ' .'
+											echo "Image Label : ${imageLabel}"
+											assert imageLabel
+
+				}
+					dir('bss-cbs') {
+				        sh '''
+					       npm install
+						   npm run build
+                           '''
+					}
+
+				}
+			}
+		}
+		stage('Analyze') {
+			environment {
+				scannerHome = tool 'Sonar-scanner'
+			}
+			steps {
+				gitlabCommitStatus(name: "SonarScan") {
+					withSonarQubeEnv('sonarqube.tecnotree.com') {
+						sh "${scannerHome}/bin/sonar-scanner"
+					}
+					//waitForQualityGate true
+				}
+			}
+		}
+
+		stage('Package') {
+			steps {
+				gitlabCommitStatus(name: "Package") {
+					script {
+						docker.withRegistry(REGISTRY_URL, REGISTRY_LOGIN){
+						echo "docker build, tag and push image ${IMAGE_NAME}:${IMAGE_TAG}"
+							def image = docker.build("${IMAGE_NAME}", imageLabel)
+								if (IMAGE_TAG != null && IMAGE_TAG != '') {
+									image.push IMAGE_TAG
+								   }
+
+									if ("${env.BRANCH_NAME}" == "${DEV_BRANCH}") {
+                                        image.push 'latest'
+									}
+									else {
+										image.push "${env.BRANCH_NAME.replaceAll('/','-')}-latest"
+									}
+
+							}
+						}
+					}
+			}
+		}
+
+	   stage('Deploy') {
+		    steps {
+				gitlabCommitStatus('name': "Deploy") {
+			       dir('rancher') {
+				       script {
+                              if ("${BRANCH_NAME}" == "${DEV_BRANCH}") {
+                                 sh """chmod +x rancher2-upgrade-dev.sh && ./rancher2-upgrade-dev.sh ${IMAGE_TAG}"""
+                              }
+                             else
+                                 echo "BRANCH: ${BRANCH_NAME} has no environment to deploy"
+						}
+				    }
+				}
+
+            }
+        }
+
+	}
+
+	post {
+		failure {
+			emailext (
+				recipientProviders: [[$class: 'DevelopersRecipientProvider']],
+				replyTo: 'DL-CP-DEVOPS@tecnotree.com',
+				subject: "Failed Pipeline: ${currentBuild.fullDisplayName}",
+				body: "Something is wrong with ${env.BUILD_URL}"
+			)
+		}
+	}
+}
